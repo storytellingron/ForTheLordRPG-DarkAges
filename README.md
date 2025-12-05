@@ -16,7 +16,7 @@ Dark Ages rulebook and setting.
 
 3. **Sharing**
    - Players and GMs use the Pages link to read the rules.  
-   - AIs use the raw link to parse the rules directly.  
+   - AIs use the raw link to parse the rules directly. Always repost the link when asking the AI to do something. It will not check the latest by itself.  
 
 4. **Editing**
    - Only the repo owner can update the files.  
@@ -24,5 +24,5 @@ Dark Ages rulebook and setting.
 
 ## Why This Matters
 - **Locked down editing**: only the creator can change the rules.  
-- **Open access**: anyone can read or parse the rules.  
-- **AI‑friendly**: the raw link ensures clean text for Copilot or other assistants.  
+- **Open access**: anyone can read or parse the rules.
+- **AI‑friendly**: the raw link ensures clean text for Copilot or other assistants.
