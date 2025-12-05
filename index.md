@@ -1,8 +1,31 @@
-can you even read this?
-# Core Rules
-## Dice Mechanics
+# For the Lord RPG: Dark Ages
 
-## Traits
-Traits are a constant number, from -2 to +4 usually. It could go higher but there are special rules for that. Players start off having to allocate -2, -1, 0, 1, 2, 3 into the six traits. When a player does anything, with a roll, the GM and player decide on a trait to add to the roll.
-- **Prowess**: like strength in other TTRPGS but more apt about how one uses their strenght and physicality than about bulk muscle, melee, atheltic, physical and also resistance against pain and suffering
-- **Awareness**: like dexterity in other TTRPGs, but more apt. For dodging, avoiding, noticing, perception, searching... Less about physical agility and more about how one is quickly able to react to situations, have situational awareness.
+## Core Rules
+- Overview of the game’s purpose and setting  
+- Player roles (missionaries, saints, evangelists)  
+- Dice mechanics (d20 + Traits + Dice Pool vs Difficulty)  
+- Conversion and fellowship as the central loop  
+
+## Character Rules
+- Trait allocation (Prowess, Awareness, Resolve, Faith, Wit, Presence)  
+- Saves and modifiers  
+- Advancement and growth through missions  
+- Special rules for exceeding normal trait ranges  
+
+## GM Tools
+- Mission design (maps, NPCs, encounters)  
+- Conversion tables and improvisation guidance  
+- Difficulty settings and situational modifiers  
+- Guidelines for pacing campaigns and planting churches  
+
+## Creatures
+- Pagan foes (curses, alchemy, demonic influences)  
+- Folklore monsters and mythic adversaries  
+- Creature stat blocks (Traits, DRs, special abilities)  
+- Encounter balancing tips  
+
+## Crypts & Dungeons
+- Rules for building crypts and lairs  
+- Environmental hazards and terrain modifiers  
+- Treasure, relics, and faith‑based rewards  
+- Sample crypt generation tables  
