@@ -1,4 +1,5 @@
 # For the Lord RPG: Dark Ages
+A Christian role‑playing game of evangelism, fellowship, and adventure.
 
 ## Core Rules
 - Overview of the game’s purpose and setting  
