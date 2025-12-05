@@ -234,3 +234,106 @@
 - Encourage gear use and creative problem‑solving.
 - Be quick to laugh, encourage banter, and keep the group engaged.
 - Combat: ensure players are ready, encourage aiding allies, and reward bravado.
+
+
+# Creatures & Beasts
+
+## General Notes
+- Beasts and foes represent pagan threats, wild animals, or mythic adversaries.
+- Each has Traits, Defense, Armor Save, and Vigor (vitality).
+- Many can be converted or calmed through Spirit, preaching, or compassion.
+- GM discretion: some foes resist conversion unless gravely wounded or shown mercy.
+
+## Example Creature: Old Gladiator
+- **Name**: Athgunert, former gladiator
+- **Traits**: Pro5, Awa4, Sav-1, Spi2, Int0, Soc3
+- **Defense**: 19 + shield + helm
+- **Armor Save**: d6 (leathers)
+- **Vigor**: 22
+- **Weapons**: Gladius +5 +1DR, d10 damage, bleed6, parry+2
+- **Skills**: Parry+7 +3DR
+- **Conversion**: Only if gravely wounded, healed, and shown compassion. May later guard a church.
+
+## Creature Stat Template
+- **Traits**: Prowess, Awareness, Savvy, Spirit, Intellect, Society
+- **Defense**: 12 + Awareness + gear
+- **Armor Save**: type of armor (d2–d12)
+- **Vigor**: total vitality
+- **Attacks**: weapon or natural (claws, bite, etc.)
+- **Special**: bleed, crush, reach, poison, etc.
+- **Conversion**: conditions under which creature may repent or join the Church.
+
+## GM Guidelines
+- Use beasts to challenge missionaries physically and spiritually.
+- Conversion is possible but rare; requires compassion, healing, or blessings.
+- Pagan foes may use curses, alchemy, or demonic powers.
+- Wild animals may flee, fight, or be tamed depending on rolls and roleplay.
+
+# Catacombs & Crypts
+
+## Traps & Hazards
+- **Detection**: Awareness/Savvy 12 to notice traps; Savvy/Intellect 12 to disarm.
+- **Avoidance**: Prowess/Awareness/Savvy 12 to leap, duck, or evade.
+- **Failure**: 1DR damage + possible grievous wound after armor save.
+- **Poison/Disease**: Pro/Spi 12 to resist; may foul armor if transferred.
+
+### Common Traps
+- Tunnel descent: DRs add difficulty; failures drain vitality, damage gear, or cause wounds.
+- Wells/Pits: may contain vermin, spirits, or treasure; climbing difficulty 12.
+- Chasms: Awareness 12 to spot; failure = fall + Pro save.
+- Pit traps: Awareness 12 to spot; Savvy 12 to disarm; falling = d6+d6 damage.
+- Deadfall traps: Awareness 12 + DRs to avoid; falling rocks = d6–d12 damage.
+- Collapsing floors/ceilings: same mechanics as deadfall.
+
+---
+
+## Altars, Shrines, Tombs
+- Fires: pagan sacrifices, distractions, or rituals.
+- Tombs: pagan or Christian; may contain relics, traps, or curses.
+- Shrines: sources of pagan power; destroying them weakens cults.
+- Stones/megaliths: ritual sites, henges, or waypoints.
+- Demonic altars: epic showdown sites; destruction required to consecrate area.
+
+---
+
+## Catacomb Setting
+- Pagan factions control desecrated Christian sites.
+- Goal: clear pagan shrines, consecrate holy sites, or seal corrupted tunnels.
+- Catacombs may contain miles of passages, ossuaries, crypts, shrines, and temples.
+- GM uses DR tables to escalate danger (d4 → d12).
+- Encounters: pilgrims, zealots, guards, thieves, beasts, spirits, rituals.
+
+---
+
+## Random Encounters (examples)
+- Oil lamps, torches, offerings.
+- Slaves or mourners (conversion possible).
+- Zealots or guards (resistant, may attack).
+- Thieves (conversion possible).
+- Cult lairs (+1DR to rolls).
+- Beasts or evil spirits.
+- Rituals in progress → Major Setting.
+
+---
+
+## Salvage & Treasure
+- **Low Salvage**: vermin, offal, flowers, trinkets.
+- **Salvage**: rations, salt, spices, mundane findings.
+- **High Salvage**: master crafted items, relics, inspired dice.
+- **Saintly Relics**: offer DR bonuses, blessings, or glory points.
+- **Master Crafted Items**: rare Roman/Byzantine gear with DR bonuses.
+
+---
+
+## One-Shot / Mini-Shot Play
+- Catacomb crawl for quick adventures.
+- Missions: intro encounter → tougher fight → finale against pagan boss.
+- Glory Points gained for defeating foes, conversions, clearing shrines.
+- Treasure hunting = cleansing desecrated sites, salvaging for Church support.
+
+---
+
+## Glory Points & Rewards
+- Earned by defeating foes, converting enemies, clearing shrines, finding relics.
+- Used to upgrade skills, blessings, or gear.
+- Salvage tables provide rations, relics, or inspired dice.
