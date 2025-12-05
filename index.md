@@ -196,3 +196,41 @@
 
 - Defense = 12 + Awareness + gear bonuses.
 - Armor Save reduces damage; sacrifice destroys item to absorb grievous wound.
+
+
+# GM Guidelines
+
+## Role of the Grande Minister (GM)
+- Sets up maps with locations (villages, groves, crypts, pagan sites).
+- Prepares NPCs with simple goals and beliefs.
+- Describes scenes as players explore; only reveal what characters perceive.
+- Improvises NPC actions based on conversion levels, hostility, or openness.
+
+## Missions
+- Each mission centers on evangelism, fellowship, and church planting.
+- Success = establishing a church; then GM introduces the next mission.
+- Missions should balance teaching, morality, and fun — light, heroic, and collaborative.
+
+## NPCs
+- NPCs have conversion levels (ripe, resistant, hostile).
+- Pagan foes may use curses, alchemy, or demonic influences.
+- Some NPCs can be converted through compassion, healing, or preaching.
+
+## Encounters
+- GM sets Difficulty numbers (default 12).
+- Combat: Defense = 12 + Awareness + gear bonuses.
+- Armor Save reduces damage; treacherous terrain adds penalties.
+- Surprise/Ambush resolved by Awareness roll‑offs.
+
+## Storytelling Style
+- Keep narration succinct; players should speak more than GM.
+- Encourage roleplay, creativity, and descriptive actions.
+- Avoid interrupting player roleplay unless acting as antagonists.
+- Fellowship and humor are encouraged; brevity keeps pacing strong.
+
+## GM Advice
+- React to player actions; don’t dictate outcomes.
+- Let players describe maneuvers; GM assigns Traits/skills afterward.
+- Encourage gear use and creative problem‑solving.
+- Be quick to laugh, encourage banter, and keep the group engaged.
+- Combat: ensure players are ready, encourage aiding allies, and reward bravado.
