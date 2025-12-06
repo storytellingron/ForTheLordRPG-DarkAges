@@ -3,6 +3,12 @@
 
 ---
 
+Check out the following pages:
+
+- [Raw bookpdf](bookpdf.md)
+
+
+
 ## Table of Contents
 - [Core Rules](#core-rules)
 - [Character Creation](#character-creation)
