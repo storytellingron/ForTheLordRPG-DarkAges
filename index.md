@@ -1,3 +1,17 @@
+# For the Lord RPG: Dark Ages  
+*A Christian role‑playing game of evangelism, fellowship, and adventure.*
+
+---
+
+## Table of Contents
+- [Core Rules](#core-rules)
+- [Character Creation](#character-creation)
+- [GM Guidelines](#gm-guidelines)
+- [Creatures & Beasts](#creatures--beasts)
+- [Catacombs & Crypts](#catacombs--crypts)
+
+---
+
 # For the Lord RPG: Dark Ages
 A Christian role‑playing game of evangelism, fellowship, and adventure.
 
