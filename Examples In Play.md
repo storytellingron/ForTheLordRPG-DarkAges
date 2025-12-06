@@ -9,31 +9,44 @@
 
 Brother Thomas, a Scout, tries to sneak past pagan guards at night.
 
-- Trait: Awareness +3
-- Total Die Ranks (DR): 7 (from Stealth skill, gear, and situational bonuses)
+- Trait: **Awareness +3**
+- Die Ranks (DR) Breakdown:
+  - Stealth skill = +3 DR
+  - Nighttime shadows (environmental aid) = +2 DR
+  - Inspired Die (personal devotion) = +1 DR
+  - Scout’s light gear = +1 DR
+- **Total DR = 7**
 
-**Step 1: Build the Dice Pool**
-- 7 DR converts to {d12, d6}.
-- Roll both dice and keep the highest.
+**Step 1: Gather the Dice**
+One player collects all dice for the check — the **d20** and the **pool dice** derived from 7 DR.  
+7 DR converts to {d12, d6}.  
+All dice are rolled together in a single throw. The d20 result is noted first, then the highest die from the pool is identified.
 
-**Step 2: Make the Roll**
-- Roll d20 → 11
-- Add Trait (+3) → 14
-- Roll Dice Pool {d12=9, d6=4} → keep highest = 9
-- Total = 14 + 9 = 23
+**Step 2: Make the Roll (procedural)**
+- Rolled dice: d20 + {d12, d6}  
+- Results: d20 = 11; pool dice = d12 = 9, d6 = 4  
+- Keep highest pool die: 9  
+- Add Trait: +3  
+- Total = 11 + 9 + 3 = **23**
 
-**Step 3: Compare to Difficulty**
-- Standard Difficulty = 12
-- 23 vs 12 → Success
+**Step 3: Determine Difficulty**
+- The GM sets the base Difficulty at **12** for a standard stealth attempt.  
+- No Armor Save is added (stealth checks don’t involve armor burden here).  
+- Result: 23 vs 12 → **Success**
 
-**Step 4: Calculate Die Rank Result (DRR)**
-- (23 − 12) ÷ 2 = 5 DRR
+**Step 4: Calculate DRR (minimum 1DR)**
+- Success margin: \((23 − 12) ÷ 2 = 5.5\) → round down to **5 DRR**  
+- Minimum rule doesn’t apply here since the margin is already greater than 1.  
+- On a narrower success (e.g., total 13 vs 12), the calculation would yield **+1 DRR** (minimum 1DR).
 
-**GM Narrative Payoff**
+**GM Narrative Payoff (immediate, GM‑directed)**
 The GM rules that Brother Thomas’s success grants a **+5 DRR bonus** to the *next related action*.  
 - If Thomas launches a surprise attack, he adds +5 DRR to that strike.  
 - If another missionary sneaks immediately after him, they gain +5 DRR to their stealth roll.  
 - The bonus applies only in this moment, not stored for later.
+
+**Outcome**
+Brother Thomas slips past the guards unseen, his success granting a strong advantage to the next missionary action.
 
 
 ### Stealth Failure
