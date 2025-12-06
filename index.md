@@ -28,14 +28,32 @@
 5. Salvage: In Dark Ages, treasures can be found, to spend on gear & supplies, the rest to give to the Church.
 
 ## Dice System
-- Main die: **d20** for all skill rolls.
-- Every skill roll is categorized in a trait, including resists and saves, determined by the GM with persuasive, descriptive input by the players.
-- Die Ranks can be added to the roll, combining any from skills, gear, situational, Blessings, Inspired Die. These are all combined for a total Die Rank.
-- - **Die Ranks (DRs)**: 1=d4, 2=d6, 3=d8, 4=d10, 5=d12. It continues beyond 5 die ranks: every 5 DRs = d12; remainder = smaller die
-- The Die Rank is then converted to a Dice Pool and added to the d20 + Trait roll.
-- Dice Pool examples: 7DRs = d20 + Trait + {d12,d6}kh and 18DRs = d20 + Trait + {d12,d12,d12,d8}kh.
-- Default Difficulty = 12. Options to change it: Treacherous Terrain? Roll and add the player's Armor Save to the difficulty, especially for manuevering type skills/rolls. This reflects armor's burdeon in gameplay. Opposing rolls like persuade or trade or even physical things like running past someone will have a roll off, of the player and the opposition's roll. A generic 10 is easy, 12 default, 14 harder, 16 much harder, and so on can be assigned or prepared as the difficulty or resist number. 
-- Roll = d20 + Trait + Dice Pool → must equal or exceed Difficulty to succeed.
+
+To resolve an action, roll a **d20** and add:
+- Your relevant **Trait**.
+- The **highest single die** from your **Dice Pool** (derived from total Die Ranks).
+
+### Difficulty
+- The default Difficulty is **12**. Equal or exceed it to succeed.
+- Opposed checks: both sides roll; higher total wins.
+- Terrain: add the character’s **Armor Save** to the Difficulty when maneuvering in treacherous conditions.
+
+### Die Ranks (DR) → Dice Pool
+- Combine DR from skills, gear, situational factors, Blessings, and Inspired Die into a single total.
+- DR-to-die mapping: **1=d4**, **2=d6**, **3=d8**, **4=d10**, **5=d12**.
+- Overflow: every 5 DR adds a **d12**; any remainder adds its die. Example:
+  - **7 DR** → Dice Pool {d12, d6}, **keep highest** and add it to your d20 + Trait.
+  - **18 DR** → Dice Pool {d12, d12, d12, d8}, **keep highest**.
+
+### Roll structure
+- Total = **d20 + Trait + highest die from Dice Pool**.
+- Compare to Difficulty.
+
+### Die Rank Results (DRR)
+- On success: \((\text{total} - \text{Difficulty}) / 2\) is a **DRR bonus** you can apply (healing, repairs, treasure, aid).
+- On failure: \((\text{Difficulty} - \text{total}) / 2\) is a **DR penalty** applied as consequences.
+
+
 
 ## Difficulty & Maneuvers
 - Default Difficulty = 12.
