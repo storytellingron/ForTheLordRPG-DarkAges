@@ -1,6 +1,3 @@
-Alright, Ron — here’s the **full unified `index.md` draft** with the Table of Contents at the top, horizontal dividers between sections, and all the simplified content stitched together. You can copy/paste this directly into your repo to replace your current file.
-
-```markdown
 # For the Lord RPG: Dark Ages  
 *A Christian role‑playing game of evangelism, fellowship, and adventure.*
 
@@ -193,4 +190,76 @@ Alright, Ron — here’s the **full unified `index.md` draft** with the Table o
 - **Weapons**: Gladius +5 +1DR, d10 damage, bleed6, parry+2
 - **Skills**: Parry+7 +3DR
 - **
+
+- ---
+
+# Catacombs & Crypts
+
+## Traps & Hazards
+- **Detection**: Awareness/Savvy 12 to notice traps; Savvy/Intellect 12 to disarm.
+- **Avoidance**: Prowess/Awareness/Savvy 12 to leap, duck, or evade.
+- **Failure**: 1DR damage + possible grievous wound after armor save.
+- **Poison/Disease**: Pro/Spi 12 to resist; may foul armor if transferred.
+
+### Common Traps
+- Tunnel descent: DRs add difficulty; failures drain vitality, damage gear, or cause wounds.
+- Wells/Pits: may contain vermin, spirits, or treasure; climbing difficulty 12.
+- Chasms: Awareness 12 to spot; failure = fall + Pro save.
+- Pit traps: Awareness 12 to spot; Savvy 12 to disarm; falling = d6+d6 damage.
+- Deadfall traps: Awareness 12 + DRs to avoid; falling rocks = d6–d12 damage.
+- Collapsing floors/ceilings: same mechanics as deadfall.
+
+---
+
+## Altars, Shrines, Tombs
+- Fires: pagan sacrifices, distractions, or rituals.
+- Tombs: pagan or Christian; may contain relics, traps, or curses.
+- Shrines: sources of pagan power; destroying them weakens cults.
+- Stones/megaliths: ritual sites, henges, or waypoints.
+- Demonic altars: epic showdown sites; destruction required to consecrate area.
+
+---
+
+## Catacomb Setting
+- Pagan factions control desecrated Christian sites.
+- Goal: clear pagan shrines, consecrate holy sites, or seal corrupted tunnels.
+- Catacombs may contain miles of passages, ossuaries, crypts, shrines, and temples.
+- GM uses DR tables to escalate danger (d4 → d12).
+- Encounters: pilgrims, zealots, guards, thieves, beasts, spirits, rituals.
+
+---
+
+## Random Encounters
+- Oil lamps, torches, offerings.
+- Slaves or mourners (conversion possible).
+- Zealots or guards (resistant, may attack).
+- Thieves (conversion possible).
+- Cult lairs (+1DR to rolls).
+- Beasts or evil spirits.
+- Rituals in progress → Major Setting.
+
+---
+
+## Salvage & Treasure
+- **Low Salvage**: vermin, offal, flowers, trinkets.
+- **Salvage**: rations, salt, spices, mundane findings.
+- **High Salvage**: master crafted items, relics, inspired dice.
+- **Saintly Relics**: offer DR bonuses, blessings, or glory points.
+- **Master Crafted Items**: rare Roman/Byzantine gear with DR bonuses.
+
+---
+
+## One-Shot / Mini-Shot Play
+- Catacomb crawl for quick adventures.
+- Missions: intro encounter → tougher fight → finale against pagan boss.
+- Glory Points gained for defeating foes, conversions, clearing shrines.
+- Treasure hunting = cleansing desecrated sites, salvaging for Church support.
+
+---
+
+## Glory Points & Rewards
+- Earned by defeating foes, converting enemies, clearing shrines, finding relics.
+- Used to upgrade skills, blessings, or gear.
+- Salvage tables provide rations, relics, or inspired dice.
+
 
