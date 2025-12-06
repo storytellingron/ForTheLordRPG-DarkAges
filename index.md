@@ -22,17 +22,20 @@
 
 ## Gameplay Loop
 1. GM sets missions, maps, NPCs, encounters.
-2. Players roleplay missionaries with Traits, skills, gear, blessings.
+2. Players roleplay missionaries and have bonuses based on Traits, skills, gear, blessings.
 3. Dice rolls resolve challenges; success = conversions, church planting.
-4. Rewards: Glory Points, gear upgrades, skill improvements.
+4. Rewards: Gain Glory Points to spend on skill upgrades, trait improvements, better armor fitting and more.
+5. Salvage: In Dark Ages, treasures can be found, to spend on gear & supplies, the rest to give to the Church.
 
 ## Dice System
-- Main die: **d20** for all rolls.
-- Add Trait bonus + Dice Pool vs Difficulty.
-- Default Difficulty = 12.
-- **Die Ranks (DRs)**: 1=d4, 2=d6, 3=d8, 4=d10, 5=d12.
-- Dice Pool: every 5 DRs = d12; remainder = smaller die.
-- Roll = d20 + Trait + Dice Pool → must equal or exceed Difficulty.
+- Main die: **d20** for all skill rolls.
+- Every skill roll is categorized in a trait, including resists and saves, determined by the GM with persuasive, descriptive input by the players.
+- Die Ranks can be added to the roll, combining any from skills, gear, situational, Blessings, Inspired Die. These are all combined for a total Die Rank.
+- - **Die Ranks (DRs)**: 1=d4, 2=d6, 3=d8, 4=d10, 5=d12. It continues beyond 5 die ranks: every 5 DRs = d12; remainder = smaller die
+- The Die Rank is then converted to a Dice Pool and added to the d20 + Trait roll.
+- Dice Pool examples: 7DRs = d20 + Trait + {d12,d6}kh and 18DRs = d20 + Trait + {d12,d12,d12,d8}kh.
+- Default Difficulty = 12. Options to change it: Treacherous Terrain? Roll and add the player's Armor Save to the difficulty, especially for manuevering type skills/rolls. This reflects armor's burdeon in gameplay. Opposing rolls like persuade or trade or even physical things like running past someone will have a roll off, of the player and the opposition's roll. A generic 10 is easy, 12 default, 14 harder, 16 much harder, and so on can be assigned or prepared as the difficulty or resist number. 
+- Roll = d20 + Trait + Dice Pool → must equal or exceed Difficulty to succeed.
 
 ## Difficulty & Maneuvers
 - Default Difficulty = 12.
