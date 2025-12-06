@@ -90,12 +90,6 @@
 - **Intellect**: crafting, languages, history, medicine.
 - **Society**: persuasion, leadership, performance, teaching.
 
-## Skills
-- Skills are guides; players may invent new ones.
-- Every d20 roll gets a Trait bonus; skills add DRs if applicable.
-- GM decides when rolls are needed; avoid repetitive tests.
-- Treacherous terrain adds Armor Save penalties.
-
 ## Callings
 - **Holy Warrior**: Prowess + Spirit; strong combat, blessings.
 - **Mercenary**: Prowess + Awareness; maneuvers, tactics.
@@ -110,34 +104,6 @@
 - Donkey + cart can carry heavy loads.
 - Wear & Tear: Nat1/Nat20 can reduce DRs or armor saves.
 - Crafting/Repair: Difficulty = 12 + half DR total.
-
-## Weapons
-| Weapon        | Damage | Burden | Range | Notes |
-|---------------|--------|--------|-------|-------|
-| Dagger        | d4     | Light  | Melee | Bleed4, may use Awareness |
-| Sword         | d6     | Light  | Melee | Parry+2, Bleed6 |
-| Greatsword    | d10    | Medium | Melee | 2H, Parry+1, Bleed6 |
-| Pan           | d4     | Gear   | Melee | Parry/shield+1 |
-| Club/Staff    | d4/d6  | Light  | Melee | 1–2H, Blunt |
-| Hammer/Mace   | d8     | Medium | Melee | Crushing, Parry |
-| Warhammer     | d12    | Heavy  | Melee | 2H, Crushing, Slow |
-| Axe           | d8     | Medium | Melee | Pull, Bleed8 |
-| Spear         | d6/d8  | Medium | Melee | Reach, Parry |
-| Bow           | d6     | Medium | Far   | 2H, Lethal6 |
-| Crossbow      | d4     | Light  | Far   | Lethal4, Reload |
-
-## Armor
-| Type         | Save | Burden | Notes |
-|--------------|------|--------|-------|
-| Plated mail  | d10  | Heavy  | No stealth |
-| Brigandine   | d8   | Heavy  | No stealth |
-| Chainmail    | d6   | Medium | — |
-| Hard leather | d4   | Medium | — |
-| Soft leather | d2   | Light  | — |
-| Furs/Cloth   | 1    | Light  | — |
-| Shield       | —    | Heavy  | +2 Defense, sacrifice |
-| Helm         | —    | Light  | +1 Defense |
-| Great Helm   | —    | Medium | +2 Defense, sacrifice |
 
 ---
 
@@ -189,9 +155,9 @@
 - **Vigor**: 22
 - **Weapons**: Gladius +5 +1DR, d10 damage, bleed6, parry+2
 - **Skills**: Parry+7 +3DR
-- **
+- **Conversion**: Only if gravely wounded, healed, and shown compassion. May later guard a church.
 
-- ---
+---
 
 # Catacombs & Crypts
 
@@ -234,32 +200,4 @@
 - Slaves or mourners (conversion possible).
 - Zealots or guards (resistant, may attack).
 - Thieves (conversion possible).
-- Cult lairs (+1DR to rolls).
-- Beasts or evil spirits.
-- Rituals in progress → Major Setting.
-
----
-
-## Salvage & Treasure
-- **Low Salvage**: vermin, offal, flowers, trinkets.
-- **Salvage**: rations, salt, spices, mundane findings.
-- **High Salvage**: master crafted items, relics, inspired dice.
-- **Saintly Relics**: offer DR bonuses, blessings, or glory points.
-- **Master Crafted Items**: rare Roman/Byzantine gear with DR bonuses.
-
----
-
-## One-Shot / Mini-Shot Play
-- Catacomb crawl for quick adventures.
-- Missions: intro encounter → tougher fight → finale against pagan boss.
-- Glory Points gained for defeating foes, conversions, clearing shrines.
-- Treasure hunting = cleansing desecrated sites, salvaging for Church support.
-
----
-
-## Glory Points & Rewards
-- Earned by defeating foes, converting enemies, clearing shrines, finding relics.
-- Used to upgrade skills, blessings, or gear.
-- Salvage tables provide rations, relics, or inspired dice.
-
-
+- Cult lairs (+1DR to
