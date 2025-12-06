@@ -33,10 +33,6 @@ To resolve an action, roll a **d20** and add:
 - Your relevant **Trait**.
 - The **highest single die** from your **Dice Pool** (derived from total Die Ranks).
 
-### Difficulty
-- The default Difficulty is **12**. Equal or exceed it to succeed.
-- Opposed checks: both sides roll; higher total wins.
-- Terrain: add the character’s **Armor Save** to the Difficulty when maneuvering in treacherous conditions.
 
 ### Die Ranks (DR) → Dice Pool
 - Combine DR from skills, gear, situational factors, Blessings, and Inspired Die into a single total.
@@ -50,10 +46,13 @@ To resolve an action, roll a **d20** and add:
 - Compare to Difficulty.
 
 ### Die Rank Results (DRR)
-- On success: \((\text{total} - \text{Difficulty}) / 2\) is a **DRR bonus** you can apply (healing, repairs, treasure, aid).
-- On failure: \((\text{Difficulty} - \text{total}) / 2\) is a **DR penalty** applied as consequences.
+- On success: \((\text{total} - \text{Difficulty}) / 2\) is a **DRR bonus** bonus if narratvie payoff.
+- On failure: \((\text{Difficulty} - \text{total}) / 2\) is a **DR penalty** applied if apropos.
 
-
+### Difficulty
+- The default Difficulty is **12**. Equal or exceed it to succeed.
+- Opposed checks: both sides roll; higher total wins.
+- Terrain: add the character’s **Armor Save** to the Difficulty when maneuvering in treacherous conditions.
 
 ## Difficulty & Maneuvers
 - Default Difficulty = 12.
