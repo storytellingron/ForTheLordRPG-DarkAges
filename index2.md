@@ -9,6 +9,7 @@
 - [GM Guidelines](#gm-guidelines)
 - [Creatures & Beasts](#creatures--beasts)
 - [Catacombs & Crypts](#catacombs--crypts)
+- [Appendices & Generators](#appendices--generators)
 
 ---
 
@@ -17,7 +18,7 @@
 ## Purpose
 - Players are missionaries, saints, or evangelists — not divine beings.
 - Focus: evangelism, fellowship, planting churches.
-- Campaigns mix medieval history, folklore, and spiritual storytelling.
+- Campaigns mix medieval history, folklore, and Christian storytelling.
 
 ## Gameplay Loop
 1. GM sets missions, maps, NPCs, encounters.
@@ -201,3 +202,8 @@
 - Zealots or guards (resistant, may attack).
 - Thieves (conversion possible).
 - Cult lairs (+1DR to
+
+---
+
+# Appendices & Generators
+
