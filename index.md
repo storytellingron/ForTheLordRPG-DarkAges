@@ -52,11 +52,13 @@ To resolve an action, roll a **d20** and add:
 - Compare to Difficulty.
 
 ### Die Rank Results (DRR)
-- On success: \((\text{total} - \text{Difficulty}) / 2\) is a **DRR bonus** bonus if narratvie payoff.
-- On failure: \((\text{Difficulty} - \text{total}) / 2\) is a **DR penalty** applied if apropos.
+- Optional bonuses for how well one succeeds or needed results for a failure.
+- On success: Total minus difficulty, then halved is a **DRR bonus**.
+- On failure: total under diffuclty, then halved is a **DR penalty**.
 
 ### Difficulty
 - The default Difficulty is **12**. Equal or exceed it to succeed.
+#### Changes to Difficulty:
 - Opposed checks: both sides roll; higher total wins.
 - Terrain: add the character’s **Armor Save** to the Difficulty when maneuvering in treacherous conditions.
 
