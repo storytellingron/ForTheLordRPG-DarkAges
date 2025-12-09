@@ -135,31 +135,199 @@ If one or more Dice Pool dice roll **7+** and are **not** the highest die:
 ## Damage & Healing
 
 - **Weapons** deal damage from **d4 to d12**, depending on size and type.  
-- **Vitality (PCs)** and **Vigor (NPCs)** decrease when damage is taken.  
-- **Armor Save:** roll armor to reduce incoming damage; armor or gear may be sacrificed to absorb grievous wounds.  
-- **Short Rest:** recover **Prowess + Spirit + d4**.  
+- **Vitality (PCs)** and **Vigor (NPCs)** decrease when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
+  
+After taking damage:
+
+- **Armor Save:** roll armor to reduce incoming damage; armor or gear may be sacrificed to absorb grievous wounds.
+- A character or monster at **0 Vitality or Less** cannot act normally until stabilized.
+
+- **Short Rest:** recover **Prowess or Spirit + d4**.  
 - **Full Rest:** restore all Vitality.
 
 ## Criticals & Fumbles
 
-- **Nat20:** automatic success, **double damage**, and grievous wound rules apply.  
+- **Nat20:** automatic success, **double damage**, and **Grievous Wounds rule** applies.  
 - **Nat1:** consult the fumble table (e.g., strike an ally, stumble, drop or damage gear).  
-- **Avoiding Fumbles:** higher DR values help reduce the likelihood of suffering a catastrophic outcome.
+- **Avoiding Fumbles:** higher DR values help reduce the likelihood of suffering a catastrophic outcome, the 7+ Rule.
 
-## Grappling
+## Grievous Wounds
 
-- **Escape:** roll Awareness to break free.  
-- **Control:** roll off using weapon or grappling skills.  
-- **Effect:** the winner may inflict DR penalties or drain Vitality.
+A **Grievous Wound** represents severe bodily harm. These wounds occur when:
+
+- A character is struck by a **Nat20** attack in combat, or  
+- A situation involves extreme failure or massive harm (GM discretion).
+
+### Grievous Wound Calculation (Nat20 Attacks)
+
+1. Roll **double weapon damage**.  
+2. Apply the target’s **Armor Save** to reduce the damage.  
+3. Any damage that gets through:
+   - Reduces **Vitality/Vigor** as normal, and  
+   - Is used to determine the wound’s severity:  
+     **Half of the damage taken = the Grievous Wound’s DR penalty.**
+
+This DR penalty represents the wound’s seriousness.
+
+### Shifting the Wound to Armor
+
+After determining the wound’s DR penalty, the target may:
+
+- Move some or all of the **wound DR** onto their **armor’s DR** instead.
+- This reduces the armor by that many DRs.
+- If doing so reduces armor to **0 DR**, the armor is **destroyed**.
+- A character may also **sacrifice a shield or great helm** to completely cancel the Grievous Wound from that attack.
+
+### Effects of Grievous Wounds
+
+Grievous Wounds impose a **DR penalty** that affects:
+
+- Life Save rolls when at 0 Vitality
+- Penalties to one roll per turn. The GM picks one, rolls the Grievous Wound DR and adds it to the difficulty of that roll. He can choose other options, but only one per turn against the grievously wounded. He may forget or forgo it. The player never has to deal with the penalty in determining their own rolls.
+
+These wounds persist until treated through appropriate care, skills, or blessings. Healing such are noted in the skills, Miracle of Healing and DRR rules.
+
+### Afflictions
+
+Poison, disease, and similar conditions are treated as **Grievous Wounds**.  
+If an Affliction’s DR penalty becomes **worse than −5 DR**, it is **fatal**.
+
+Stun, fear and other temporary penalties are not part of the fatal condition but will still add to the DR penalty.
+
+Afflictions are gained from:
+
+- Failing disease or poison rolls.  
+- Prolonged exposure to harsh environments.  
+- Curses or spiritual attacks (GM discretion).  
+- Failing specific encounter hazards.
+
+**Recovery:**  
+Afflictions can be removed through:
+
+- Time and rest,  
+- Medical care,  
+- Herbal treatments,  
+- Prayer or blessings,  
+- Completing certain quests.
+
+The GM determines the steps and difficulty of recovery.
+
+## Healing Grievous Wounds
+
+Grievous Wounds require intentional healing. They do not recover through normal Vitality rest.
+
+The Difficulty to heal a Grievous Wound is:
+
+**Difficulty = 12 + Grievous Wound DR**
+
+A healing attempt produces a **DRR**. Any DR above the Difficulty reduces the wound’s DR.
+
+---
+
+## Miracle of Healing (Blessing)
+
+The Nun or Blessed character acts **first** because her miracle is the safest method.
+
+For the Miracle of Healing:
+
+- The nun adds **Faith Points as DRs** directly into her Dice Pool.  
+- She may add **any of her own healing-related skills** (Healing, Surgery, Mothering, Herbalism, etc.) as additional DRs.  
+- She rolls **Spirit + {Dice Pool}kh** against **12 + Wound DR**.  
+- Any DRR above the Difficulty reduces the wound’s DR.  
+- **Failure never worsens the wound.**  
+- May be used **once per day**.
+
+This represents divine aid working through her skills and devotion.
+
+---
+
+## Healing Through Skills (Healer or Surgeon)
+
+After the Nun’s attempt (if any), a healer may treat the wound:
+
+- Add **Trait + Healing/Surgery skills** and any situational DRs.  
+- Roll against **12 + Wound DR**.  
+- DRR above the Difficulty reduces the wound’s DR.  
+- A disastrous failure may worsen the wound.
+
+May be attempted **once per day**.
+
+---
+
+## Rest Healing (Nightly Required Roll)
+
+Every full night of rest, the wounded character must roll:
+
+**Prowess or Spirit + {any chosen DRs}kh vs (12 + Wound DR)**
+
+### The Pain Rule (Special)
+
+If the patient chooses to add **any** of their own DRs  
+(e.g., Medical knowledge, Blessings, Inspired Die, Hope DR, etc.):
+
+- The GM must roll the **Wound DR as a penalty die** (representing pain, trembling, shock).  
+- The result of this penalty die is **added to the Difficulty** for that night.
+
+This makes self-healing risky but potentially rewarding.
+
+A DRR above the final Difficulty reduces the wound’s DR.  
+Failure or very low DRR may worsen the wound (GM discretion).
+
+The Rest Healing roll is **mandatory** until the wound is fully healed.
+
+---
+
+## Order of Healing (Per Day)
+
+1. **Miracle of Healing** (Nun / Blessed)  
+2. **Healer or Surgeon**  
+3. **Nightly Rest Healing** (required)
+
+Each step may reduce the wound’s DR through DRR.
+
+---
+
+## Resolving Complete Healing
+
+When the Wound DR reaches **0**, the Grievous Wound is healed.
+
+Vitality may then recover normally.
+
+---
+
+
 
 ## Special Rules
 
-- **Point Blank:** melee-range surprise; attack automatically hits (except on a Nat1).  
-- **Fire Damage:**  
-  - Torch: **d4**  
-  - Campfire: **d6**  
-  - Lamp oil: **d8**  
-  - Pyre: **d10**
+#### Grappling
+
+- **Escape:** roll Awareness to break free.  
+- **Control:** roll off using weapon or grappling skills.  
+- **Effect:** the winner may inflict DR penalties or drain Vitality based off the DRR result.
+- 
+### Point Blank & Ambush
+
+- Point Blank applies only at **melee range** against a target that is:
+  - **Unaware**,  
+  - **Not moving**, and  
+  - Within reach of the attacker.
+
+- With **handheld guns or daggers**, the **first** Point Blank attack:
+  - **Hits on anything except a Nat1**  
+  - Is treated as a **Nat20 hit**  
+  - **Ignores Armor Saves**  
+  - May target a **specific limb or location**
+
+- **Other melee weapons** cannot gain the Point Blank Nat20 effect, but:
+  - Still hit on anything except **Nat1**  
+  - Do **not** ignore armor  
+  - Inflict a **−1 DR wound** on a successful hit
+
+- **Grappling** at Point Blank:
+  - Hits on anything except **Nat1**  
+  - Gains **+2 DR** to the attempt  
+  - Can still be resisted normally
+
 
 
 
