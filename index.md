@@ -37,42 +37,74 @@ Check out the following pages:
 
 To resolve an action, roll a **d20** and add:
 - Your relevant **Trait**.
-- The **highest single die** from your **Dice Pool** (derived from total Die Ranks).
+- The **highest die** from your **Dice Pool** roll.
 
 
-### Die Ranks (DR) → Dice Pool
-- Combine DR from skills, gear, situational factors, Blessings, and Inspired Die into a single total.
-- DR-to-die mapping: **1=d4**, **2=d6**, **3=d8**, **4=d10**, **5=d12**.
-- Overflow: every 5 DR adds a **d12**; any remainder adds its die. Example:
-  - **7 DR** → Dice Pool {d12, d6}, **keep highest** and add it to your d20 + Trait.
-  - **18 DR** → Dice Pool {d12, d12, d12, d8}, **keep highest**.
+### Die Ranks (DR) & The Dice Pool
 
-### Roll structure
-- Total = **d20 + Trait + highest die from Dice Pool**.
-- Compare to Difficulty.
+Characters gain **Die Ranks (DR)** from skills, training, gear, blessings, inspiration, and favorable circumstances.
 
-### Die Rank Results (DRR)
-- Optional bonuses for how well one succeeds or needed results for a failure.
-- On success: Total minus difficulty, then halved is a **DRR bonus**.
-- On failure: total under diffuclty, then halved is a **DR penalty**.
+DR does **not** add directly to a roll. Instead:
+
+> **DR creates a Dice Pool**, which the *acting player* rolls alongside the d20.
+
+This reflects the biblical idea of **casting lots** — gathering all preparation and support before placing the outcome in God's hands. Author's Note: It is not important to succeed at our endeavors for the Lord, no matter our outcome, God's Will will be done.
+
+### Converting DR Into a Dice Pool
+
+1. Add up all DR relevant to the action.  
+2. For every **5 DR**, add **one d12** to the Dice Pool.  
+3. If DR remains (1–4), add **one die** based on the remainder:
+
+- **1 DR → +d4**  
+- **2 DR → +d6**  
+- **3 DR → +d8**  
+- **4 DR → +d10**
+
+Only the **acting player** rolls all Dice Pool dice.
+
+Rolling looks like this: d20 + 4 + {d12,d8}kh
+Character stats: Prowess+4, sword skill+3DR, sword+2DR, Blessing+2DR, high ground+1DR!
+
+### Rolling the Dice
+
+To resolve an action, the acting player rolls:
+
+**`d20 + Trait + Dice Pool`**
+
+- Roll the d20  
+- Roll **all** dice in the Dice Pool  
+- Identify the **single highest** result in the pool  
+- Add that highest result + Trait to the d20  
+- Compare the total to the Difficulty
+
+#### The 7+ Rule
+Any die in the Dice Pool that rolls **7 or higher** follows two rules:
+- Cancels a 1 result from the d20 roll, the fumble roll or the Nat1 roll.
+- Adds the die to the total, even if it's not the highest die from the dice pool. So it 'explodes' or stacks, is added to the result.
+
+### Summary
+
+- **DR creates a Dice Pool**  
+- **Every 5 DR → +d12**  
+- **Remainder DR → +d4 / +d6 / +d8 / +d10**  
+- **Only the acting player rolls the entire pool**  
+- **Roll:** `d20 + Trait + {Dice Pool}kh`  
+- **Any 7+ rolls also add and negate natural 1s`**
 
 ### Difficulty
 - The default Difficulty is **12**. Equal or exceed it to succeed.
 #### Changes to Difficulty:
 - Opposed checks: both sides roll; higher total wins.
-- Terrain: add the character’s **Armor Save** to the Difficulty when maneuvering in treacherous conditions.
-
-## Difficulty & Maneuvers
-- Default Difficulty = 12.
-- Combat: Defense = 12 + Awareness + gear bonuses.
-- Armor Save reduces damage after a hit.
-- Treacherous terrain: Difficulty = 12 + Armor Save.
+- Treacherous Terrain: add the character’s **Armor Save** to the Difficulty when maneuvering in treacherous conditions.
 - Extreme terrain: add situational DRs (storm, darkness, arrows, etc.).
 
-## Die Rank Results (DRR)
-- Success: roll – difficulty, halved = DRR bonus.
-- Failure: difference halved = DR penalty.
-- DRRs can be applied to healing, repairs, treasure, aid, or penalties.
+### Die Rank Results (DRR) (Optional)
+- Optional bonuses for how well one succeeds or fails with further DR affects.
+- On success: Total minus difficulty, then halved is a **DRR bonus**.
+- On failure: total under diffuclty, then halved is a **DR penalty**.
+- These DRs can then be put to immediate use for the next interaction based on the situation.
+- DRRs can be applied to healing, repairs, treasure, aid, or penalties. Each has slightly different ways of applying it and is noted in its own section. GM discretion and expediency are also valid.
 
 ## Combat
 - Surprise/Ambush: Awareness roll‑off.
