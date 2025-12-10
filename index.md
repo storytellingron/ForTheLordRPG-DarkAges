@@ -136,7 +136,7 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 - **Magic, Curses or Blessings** of any sort, may only be used once per turn.
 
 ## Damage & Healing
-- **Weapons** deal damage from **d4 to d12**, depending on size and type. In advanced play, these may go beyond 5DRs!  
+- **Weapons** deal damage from **d4 to d12**, depending on size and type. In advanced play, these may go beyond 5DRs due to gear or skill upgrades!  
 - **Vitality (PCs)** and **Vigor (NPCs)** decrease when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
   
 After taking damage:
