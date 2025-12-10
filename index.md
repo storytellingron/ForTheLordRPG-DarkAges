@@ -28,7 +28,7 @@ Check out the following pages:
 - Campaigns blend medieval history, folklore, and Christian storytelling.
 
 ## Gameplay
-1. The GM prepares missions, encounters, maps, and NPCs.  
+1. The Grande Minister or GM prepares missions, encounters, maps, and NPCs.  
 2. Players roleplay missionaries and gain bonuses from Traits, skills, gear, and blessings.  
 3. Dice rolls resolve challenges; success often results in conversions or establishing churches.
 4. Roleplaying involves investigation, inquiry, conversions, reconciliations and more! It isn't just about heroics and gaining rewards, but about the mindset of evangelism & planting churches to change the World.
@@ -39,7 +39,7 @@ Check out the following pages:
 
 Most rolls in the game are resolved by rolling a **d20**, applying your **Trait** bonus or penalty, and adding the die of the **Die Ranks**.
 
-To resolve a roll versus a trial:
+To resolve a roll versus a difficulty:
 
 **`d20 + Trait + DR Die`**
 
@@ -100,6 +100,7 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 
 ## Summary of Dice System
 
+-  **d20** plus a specific **Trait** bonus/penalty.
 - **1–5 DR**: Basic single DR die (d4–d12).  
 - **6+ DR**: Advanced **Dice Pool**.  
   - **Every 5 DR → d12**  
@@ -120,11 +121,11 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 ## Die Rank Results (DRR) — Optional Rule
 - On success: (Total − Difficulty) ÷ 2 = **DRR bonus**.  
 - On failure: (Difficulty − Total) ÷ 2 = **DRR penalty**.  
-- DRR may be applied immediately to healing, repairs, treasure, aid, or penalties.  
-- GM discretion and situational use are encouraged.
+- DRR may be applied immediately to healing, repairs, treasure, aid, or penalties like damage or gear wear.  
+- GM can ignore this or use to help define the results of a roll.
 
 ## Combat
-- **Surprise / Ambush:** Opponents make an Awareness roll-off. Use highest Awareness from each group. Winners may get first free attack.
+- **Surprise / Ambush:** Opponents make an Awareness roll-off. Use highest Awareness from each group. Winners may get first free attack. The GM may give the highest Armor Save DRs of each group, as a bonus, to the other group!
 - **Faith Points** are rolled now, to be used for this encounter.  
 - **Initiative Order:** loaded crossbows → ranged → spears → claws → light weapons → heavy weapons. May do an Awareness roll-off if similar. GM may use discretion.  
 - **Turn Structure:** one **maneuver** + one **action**, or two maneuvers.  
@@ -135,7 +136,7 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 - **Magic, Curses or Blessings** of any sort, may only be used once per turn.
 
 ## Damage & Healing
-- **Weapons** deal damage from **d4 to d12**, depending on size and type.  
+- **Weapons** deal damage from **d4 to d12**, depending on size and type. In advanced play, these may go beyond 5DRs!  
 - **Vitality (PCs)** and **Vigor (NPCs)** decrease when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
   
 After taking damage:
@@ -328,7 +329,6 @@ Vitality may then recover normally.
   - Hits on anything except **Nat1**  
   - Gains **+2 DR** to the attempt  
   - Can still be resisted normally
-
 
 
 
