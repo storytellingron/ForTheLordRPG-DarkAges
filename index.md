@@ -55,16 +55,13 @@ This mirrors the biblical idea of **casting lots** — gathering every available
 
 ## Converting DR Into a Dice Pool
 
-1. Add all DR relevant to the action.  
+1. Add all DR relevant to the roll.  
 2. For every **5 DR**, add **one d12** to the Dice Pool.  
 3. If DR remains (1–4), add **one die** based on the remainder:
-
 - **1 DR → +d4**  
 - **2 DR → +d6**  
 - **3 DR → +d8**  
 - **4 DR → +d10**
-
-Only the **acting player** rolls all Dice Pool dice.
 
 Dice Pools are written as:
 
@@ -79,31 +76,21 @@ To make a check:
 3. Identify the **highest die** in the pool.  
 4. Add together:  
    - d20 result  
-   - relevant Trait  
+   - relevant Trait bonus or penalty  
    - the highest Dice Pool die  
    - any additional 7+ results  
 5. Compare the final total to the Difficulty.
 
 ## The 7+ Rule
-
 Any die in the Dice Pool that rolls **7 or higher** applies:
-
-### 1. Natural 1 Protection
-If the d20 shows a **natural 1**, but *any* Dice Pool die rolled **7+**,  
-the natural 1 is **not** an automatic failure. Resolve the roll normally.
-
-### 2. Additional 7+ Dice Add to the Total
-If one or more Dice Pool dice roll **7+** and are **not** the highest die:
-
-- Each 7+ result is **also added** to the total.  
-- You always add the **highest die**, plus **any additional 7+ results**.
+- Negates a Nat1 fumble result from the d20.
+- Adds to the total, even if not the highest result.
 
 ## Summary of Dice System
-- **DR creates a Dice Pool**  
-- **Every 5 DR → +d12**  
-- **Remainder DR → +d4 / +d6 / +d8 / +d10**  
-- **Only the acting player rolls the Dice Pool**  
-- **Action Roll:** `d20 + Trait + {Dice Pool}kh`  
+- **DR above 5 creates a Dice Pool**  
+- **Every 5 DR → d12**  
+- **Remainder DR → d4, d6, d8 or d10**  
+- **Skill Roll:** `d20 + Trait + {Dice Pool}kh`  
 - **Any 7+ results add to the total and negate natural 1s**
 
 ## Difficulty
@@ -112,8 +99,8 @@ If one or more Dice Pool dice roll **7+** and are **not** the highest die:
 
 ### Adjusting Difficulty
 - **Opposed checks:** both sides roll; higher total wins.  
-- **Treacherous terrain:** add the character’s **Armor Save** to the Difficulty.  
-- **Extreme conditions:** apply situational DRs (storms, darkness, volleys of arrows, etc.).
+- **Treacherous terrain:** GM rolls the character’s **Armor Save** to add to the Difficulty. This gives the sense of the armor's burden. Only apply the basic Armor Save versus if the character upgraded it with Glory Points. 
+- **Extreme conditions:** GM may combine situational DRs (darkness, wet, mud, storm, under attack, etc...) to the **Armor Save** DR, then rolling.
 
 ## Die Rank Results (DRR) — Optional Rule
 - On success: (Total − Difficulty) ÷ 2 = **DRR bonus**.  
@@ -122,7 +109,6 @@ If one or more Dice Pool dice roll **7+** and are **not** the highest die:
 - GM discretion and situational use are encouraged.
 
 ## Combat
-
 - **Surprise / Ambush:** Opponents make an Awareness roll-off. Winner may get first free attack.  
 - **Initiative Order:** loaded crossbows → ranged → spears → claws → light weapons → heavy weapons. May do an Awareness roll-off if similar.  
 - **Turn Structure:** one **maneuver** + one **action**, or two maneuvers.  
