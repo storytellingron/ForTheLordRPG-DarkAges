@@ -52,7 +52,6 @@ This mirrors the biblical idea of **casting lots** — gathering every available
 *Author’s Note: Success is not required; God’s will prevails regardless.*
 
 ## Converting DR Into a Dice Pool
-
 1. Add all DR relevant to the roll.  
 2. For every **5 DR**, add **one d12** to the Dice Pool.  
 3. If DR remains (1–4), add **one die** based on the remainder:
@@ -66,9 +65,7 @@ Dice Pools are written as:
 **`{d12, d8}kh`** → roll all dice in the braces; *keep highest* (with the 7+ rule below).
 
 ## Rolling the Dice
-
 To make a check:
-
 1. Roll **1d20**.  
 2. Roll **all** dice in the Dice Pool.  
 3. Identify the **highest die** in the pool.  
@@ -107,17 +104,17 @@ Any die in the Dice Pool that rolls **7 or higher** applies:
 - GM discretion and situational use are encouraged.
 
 ## Combat
-- **Surprise / Ambush:** Opponents make an Awareness roll-off. Winner may get first free attack.  
-- **Initiative Order:** loaded crossbows → ranged → spears → claws → light weapons → heavy weapons. May do an Awareness roll-off if similar.  
+- **Surprise / Ambush:** Opponents make an Awareness roll-off. Use highest Awareness from each group. Winners may get first free attack.
+- **Faith Points** are rolled now, to be used for this encounter.  
+- **Initiative Order:** loaded crossbows → ranged → spears → claws → light weapons → heavy weapons. May do an Awareness roll-off if similar. GM may use discretion.  
 - **Turn Structure:** one **maneuver** + one **action**, or two maneuvers.  
 - **Actions include:** melee attack, ranged attack, aid, blessings.
-- **Manuevers include:** reloading, DRR action rolls like dodge or parry, rushing about.
-- **Free Actions:** speech, drawing weapons, invoking blessings already prepared.
-- **Blessings** that help can occur whenever.
-- **Magic, Curses or Blessings** that adversely affect a target go with ranged. 
+- **Manuevers include:** reloading, moving, using the special rule for DRR action rolls like dodge or parry.
+- **Free Actions:** speech, drawing weapons, invoking a helpful blessing.
+- **Magic, Curses or Blessings** that adversely affect a target are in the ranged initiative order.
+- **Magic, Curses or Blessings** of any sort, may only be used once per turn.
 
 ## Damage & Healing
-
 - **Weapons** deal damage from **d4 to d12**, depending on size and type.  
 - **Vitality (PCs)** and **Vigor (NPCs)** decrease when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
   
