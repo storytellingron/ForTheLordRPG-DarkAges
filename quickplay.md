@@ -19,8 +19,9 @@ No dice pools, no advanced wound rules, and no DRR. Just fast, clear gameplay.
 2. Players roleplay missionaries using Traits, skills, gear, and blessings.
 3. Challenges are resolved with the **Die System**.
 4. Success results in conversions, helping communities, or planting churches.
-5. Glory Points allow characters to grow in Traits, skills, gear, and spiritual gifts.
+5. Glory Points allow characters to grow in Traits, skills, armor fitting, and blessings.
 6. Salvage and treasure may be used to support missions or given to the Church.
+7. Growth of the Church can support and give missions.
 
 ---
 
