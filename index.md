@@ -24,26 +24,9 @@ Check out the following pages:
 # Core Mechanics
 
 ---
-- [Purpose](#purpose)
-- [Gameplay](#gameplay)
-- [Dice System](#dice-system)
-- [Rolling the Dice](#rolling-the-dice)
-- [The 7+ Rule](#the-7-rule)
-- [Summary of Dice System](#summary-of-dice-system)
-- [Difficulty](#difficulty)
-- [Die Rank Results (DRR) — (Advanced)](#die-rank-results-drr--advanced)
-- [Combat](#combat)
-- [Damage & Healing](#damage--healing)
-- [Criticals & Fumbles](#criticals--fumbles)
-- [Life Saves & Conditions](#life-saves--conditions)
-- [Grievous Wounds (Advanced)](#grievous-wounds-advanced)
-- [Healing Grievous Wounds](#healing-grievous-wounds)
-- [Miracle of Healing (Blessing)](#miracle-of-healing-blessing)
-- [Healing Through Skills (Healer or Surgeon)](#healing-through-skills-healer-or-surgeon)
-- [Rest Healing (Nightly Required Roll)](#rest-healing-nightly-required-roll)
-- [Order of Healing (Per Day)](#order-of-healing-per-day)
-- [Resolving Complete Healing](#resolving-complete-healing)
-- [Special Rules](#special-rules)
+
+
+
 ---
 
 
