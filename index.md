@@ -120,14 +120,14 @@ To make a check:
    - Any additional 7+ results  
 5. Compare the total to the Difficulty.
 
-## The 7+ Rule
+### The 7+ Rule
 
 Any die rolled in the Dice Pool that shows **7 or higher**:
 
 - **Negates a natural 1** (fumble) on the d20.  
 - **Adds to the total**, even if it is *not* the highest die in the dice pool.
 
-## Summary of Dice System
+### Summary of Dice System
 
 -  **d20** plus a specific **Trait** bonus/penalty.
 - **1–5 DR**: Basic single DR die (d4–d12).  
@@ -165,7 +165,7 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 - **Magic, Curses or Blessings** that adversely affect a target are in the ranged initiative order.
 - **Magic, Curses or Blessings** of any sort, may only be used once per turn.
 
-## Damage & Healing
+### Damage & Healing
 - **Weapons** deal damage from **d4 to d12**, depending on size and type. In advanced play, these may go beyond 5DRs due to gear or skill upgrades. 
 - **Vitality (PCs)** and **Vigor (NPCs)** decrease when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
 - **0 Or Less** At 0, one is out, utterly exhausted, but stable. At a negative, the **Life Saves** rules are used. One could fade from this world! For NPCs, 0 or less, the GM can decide if they are utterly exhausted, deceased or able to be healed and does not need to use exact rules.
@@ -178,13 +178,13 @@ After taking damage:
 - **Short Rest:** recover **Prowess or Spirit + d4**.  
 - **Full Rest:** restore all Vitality.
 
-## Criticals & Fumbles
+### Criticals & Fumbles
 
 - **Nat20:** automatic success, **double damage**, and **Grievous Wounds rule** applies.  
 - **Nat1:** consult the fumble table (e.g., strike an ally, stumble, drop or damage gear).  
 - **Avoiding Fumbles:** higher DR values help reduce the likelihood of suffering a catastrophic outcome, the 7+ Rule.
 
-## Life Saves & Conditions
+### Life Saves & Conditions
 
 When a character’s **Vitality is 0 or less**, they must make **Life Saves** each turn until stabilized or dead.
 
@@ -296,7 +296,7 @@ Afflictions can be removed through:
 
 The GM determines the steps and difficulty of recovery.
 
-## Healing Grievous Wounds
+### Healing Grievous Wounds
 
 Grievous Wounds require intentional healing. They do not recover through normal Vitality rest.
 
@@ -306,7 +306,7 @@ The Difficulty to heal a Grievous Wound is:
 
 A healing attempt produces a **DRR**. Any DR above the Difficulty reduces the wound’s DR.
 
-### Order of Healing (Per Day)
+#### Order of Healing (Per Day)
 
 1. **Miracle of Healing** (Nun / Blessed)  
 2. **Healer or Surgeon**  
@@ -314,7 +314,7 @@ A healing attempt produces a **DRR**. Any DR above the Difficulty reduces the wo
 
 Each step may reduce the wound’s DR through DRR.
 
-#### Miracle of Healing (Blessing)
+##### Miracle of Healing (Blessing)
 
 The Nun or Blessed character acts **first** because her miracle is the safest method.
 
@@ -329,7 +329,7 @@ For the Miracle of Healing:
 
 This represents divine aid working through her skills and devotion.
 
-#### Healing Through Skills (Healer or Surgeon)
+##### Healing Through Skills (Healer or Surgeon)
 
 After the Nun’s attempt (if any), a healer may treat the wound:
 
@@ -340,7 +340,7 @@ After the Nun’s attempt (if any), a healer may treat the wound:
 
 May be attempted **once per day**.
 
-#### Rest Healing (Nightly Required Roll)
+##### Rest Healing (Nightly Required Roll)
 
 Every full night of rest, the wounded character must roll:
 
@@ -362,7 +362,7 @@ Failure or very low DRR may worsen the wound (GM discretion).
 The Rest Healing roll is **mandatory** until the wound is fully healed.
 
 
-#### Resolving Complete Healing
+##### Resolving Complete Healing
 
 When the Wound DR reaches **0**, the Grievous Wound is healed.
 
@@ -410,7 +410,7 @@ Vitality may then recover normally.
   - Gains **+2 DR** to the attempt  
   - Can still be resisted normally
 
-## Afflictions
+### Afflictions
 
 **Poison, disease, sickness.**  
 These are part of **Grievous Wounds**.  
@@ -418,7 +418,7 @@ Beyond **–5 DR** is fatal.
 
 ---
 
-## Bleed #
+### Bleed #
 
 “#” equals the amount of damage required to trigger Bleed.
 
@@ -429,7 +429,7 @@ Beyond **–5 DR** is fatal.
 
 ---
 
-## Down / Prone
+### Down / Prone
 
 - **–1 DR** to any rolls, *except* crossbow or guns, which get **+1 DR** if not in melee.  
 - **+1 DR** to be hit in melee.  
@@ -440,7 +440,7 @@ Beyond **–5 DR** is fatal.
 
 ---
 
-## Temporary Pains, Shocks, Exhaustion
+### Temporary Pains, Shocks, Exhaustion
 
 - Apply **–DR penalties**.  
 - Beyond **–5 DR** results in **fatal shock**, passing out — but not fatal unless *unholy or severe* in nature.  
@@ -459,7 +459,7 @@ but its **DR penalties are added** to any penalty rolls.
 
 ---
 
-## Falling
+### Falling
 
 - **+1 DR damage per 10 feet** fallen.  
 - A fall is a **critical**, dealing **double damage** with possible **Grievous Wound**.  
@@ -467,7 +467,7 @@ but its **DR penalties are added** to any penalty rolls.
 
 ---
 
-## Fear  
+### Fear  
 *(See Shocks above)*
 
 - Gives **penalty DRs** to rolls.  
@@ -483,7 +483,7 @@ but its **DR penalties are added** to any penalty rolls.
 
 ---
 
-## Restrained
+### Restrained
 
 A restrained character:
 
