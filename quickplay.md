@@ -167,39 +167,43 @@ Attacking an unaware target at melee range:
 
 Fire may spread or diminish at GM discretion.
 
-## Weapons (Simple Version)
+## Weapons & Armor (Simple Version)
 
-| Weapon Category      | Damage Die | Notes                                                             |
-|----------------------|------------|-------------------------------------------------------------------|
-| Small Weapons        | d4         | Daggers, clubs; quick and simple, may use Awa to hit |
-| Light Weapons        | d6         | Short swords, hand axes                                           |
-| Medium Weapons       | d8         | Spears, longswords                                         |
-| Heavy Weapons        | d10        | Maces, hammers, battle axes                      |
-| Very Heavy Weapons   | d12        | Great axe, sword, war hammer; slow but powerful                   |
-| Shortbow             | d6         | Standard ranged weapon                                            |
-| Crossbow             | d8         | **Fires first only if pre-loaded**; loading is a maneuver (fires last) |
-| Throwing Weapons     | d4         | Limited range                                                     |
+### Weapons
 
-## Armor & Defense (Simple Version)
+| Weapon Category      | Damage Die | Burden     | Notes |
+|----------------------|------------|-------------|-------|
+| Small Weapons        | d4         | Light       | Daggers, clubs; may use Awareness to hit |
+| Light Weapons        | d6         | Light       | Short swords, hand axes |
+| Medium Weapons       | d8         | Medium      | Spears, longswords |
+| Heavy Weapons        | d10        | Heavy       | Maces, hammers, battle axes |
+| Very Heavy Weapons   | d12        | Heavy       | Great axes, war hammers; slow but powerful |
+| Shortbow             | d6         | Medium      | Standard ranged weapon |
+| Crossbow (pre-loaded) | d8        | Medium      | Fires first if already loaded |
+| Crossbow (loading)   | d8         | Medium      | Must use **maneuver to load**; otherwise fires last |
+| Throwing Weapons     | d4         | Light       | Limited range |
 
 ### Armor Saves
-| Armor Type         | Armor Save Die | Notes                                     |
-|--------------------|----------------|--------------------------------------------|
-| None               | —              | No save                                   |
-| Thick Clothes | 1         | Minimal protection                         |
-| Soft Leather       | d2             | Light, flexible                            |
-| Hard Leather       | d4             | Basic protection                           |
-| Chain Mail         | d6             | Reliable, good coverage                    |
-| Brigandine         | d8             | Layered armor, strong defense              |
-| Plated Armor       | d10            | Heavy, high protection                     |
-| Full Plate         | d12            | Best defense available                     |
+
+| Armor Type           | Armor Save Die | Burden     | Notes |
+|----------------------|----------------|------------|------|
+| None                 | —              | None       | No protection |
+| Thick Clothes        | 1              | Light      | Minimal protection |
+| Soft Leather         | d2             | Light      | Common |
+| Hard Leather         | d4             | Light      | Veteran brigands, soldiers |
+| Chain Mail           | d6             | Medium     | Pricey, knights |
+| Brigandine           | d8             | Heavy     | Well stocked soldiers, guards |
+| Plated Armor         | d10            | Heavy      | Royal, holy knights, advanced |
+| Full Plate           | d12            | Heavy      | Dark Ages, extremely rare|
 
 ### Defense Bonuses (Not Armor Saves)
-| Item        | Defense Bonus | Notes                               |
-|-------------|----------------|--------------------------------------|
-| Shield      | +2 Defense     | Can be sacrificed to absorb wounds   |
-| Helm        | +1 Defense     | Basic head protection                |
-| Great Helm  | +2 Defense     | Superior head protection             |
+
+| Item        | Defense Bonus | Burden     | Notes |
+|-------------|----------------|------------|-------|
+| Shield      | +2 Defense     | Medium     |  |
+| Helm        | +1 Defense     | Light      |  |
+| Great Helm  | +2 Defense     | Medium     | Hinders awareness, looks great! |
+
 
 ---
 
