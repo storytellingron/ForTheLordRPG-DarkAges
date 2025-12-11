@@ -32,8 +32,9 @@ Check out the following pages:
 2. Players roleplay missionaries and gain bonuses from Traits, skills, gear, and blessings.  
 3. Dice rolls resolve challenges; success often results in conversions or establishing churches.
 4. Roleplaying involves investigation, inquiry, conversions, reconciliations and more! It isn't just about heroics and gaining rewards, but about the mindset of evangelism & planting churches to change the World.
-5. Rewards: Gain **Glory Points** to improve Traits, skills, gear, and armor.  
+5. Rewards: Gain **Glory Points** to improve Traits, skills, armor fitting and blessings.  
 6. Salvage: Treasures found during missions may be used for gear and supplies, with excess given back to the Church.
+7. As the Church grows, it can help support and give missions.
 
 ## Dice System
 
