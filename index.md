@@ -1,5 +1,6 @@
 
-# For the Lord RPG - Dark Ages  
+# For The Lord RPG — Dark Ages
+
 *A Christian role‑playing game of evangelism, fellowship, and adventure.*
 
 ---
