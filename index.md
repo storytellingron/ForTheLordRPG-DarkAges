@@ -140,7 +140,7 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 ## Damage & Healing
 - **Weapons** deal damage from **d4 to d12**, depending on size and type. In advanced play, these may go beyond 5DRs due to gear or skill upgrades. 
 - **Vitality (PCs)** and **Vigor (NPCs)** decrease when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
-- **0 Or Less** At 0, one is out, utterly exhausted, but stable. At a negative, the **Life Save** rules are used. One could fade from this world! For NPCs, 0 or less, the GM can decide if they are utterly exhausted, deceased or able to be healed and does not need to use exact rules.
+- **0 Or Less** At 0, one is out, utterly exhausted, but stable. At a negative, the **Life Saves** rules are used. One could fade from this world! For NPCs, 0 or less, the GM can decide if they are utterly exhausted, deceased or able to be healed and does not need to use exact rules.
   
 After taking damage:
 
@@ -155,6 +155,24 @@ After taking damage:
 - **Nat20:** automatic success, **double damage**, and **Grievous Wounds rule** applies.  
 - **Nat1:** consult the fumble table (e.g., strike an ally, stumble, drop or damage gear).  
 - **Avoiding Fumbles:** higher DR values help reduce the likelihood of suffering a catastrophic outcome, the 7+ Rule.
+
+## Life Saves & Conditions
+
+When a character’s **Vitality is 0 or less**, they must make **Life Saves** each turn until stabilized or dead.
+
+**Life Save Roll:**  
+`d20 + Prowess or Spirit`  
+**Difficulty:** 12
+- + Grievous Wound DR if Advanced play.
+
+- **Success:** Recover **+d4 Vitality**.  
+- **Failure:** Lose **−d6 Vitality**.
+
+A character dies when their Vitality reaches the **negative of their maximum Vitality**.
+
+Life Saves continue each turn until the character stabilizes, recovers above 0 Vitality, or dies.
+
+This represents the struggle to stay alive in the face of grievous injury or shock — requiring both physical resolve and spiritual fortitude.
 
 ## Grievous Wounds (Advanced)
 
