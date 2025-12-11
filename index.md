@@ -39,7 +39,7 @@ Check out the following pages:
 
 Most rolls in the game are resolved by rolling a **d20**, applying your **Trait** bonus or penalty, and adding the die of the **Die Ranks**.
 
-To resolve a roll versus a difficulty:
+To resolve a roll:
 
 **`d20 + Trait + DR Die`**
 
@@ -61,7 +61,7 @@ In the simple game, characters are limited to **5 DR**, a single bonus die for a
 
 ### The Dice Pool (Advanced)
 Incorporating the advanced version should come after players and GMs understand the basic rolls for combat & encounters, how to use blessings and how to advance their character's skills and armor with Glory Points.
-- **Explanation:** This solves the common RPG issue of advanced characters becoming too powerful as they upgrade. As one gains more and more DRs, their bonus gets more diffused and costly. Yet there is still some advancement. And new players can join a long campaign and still contribute.
+- **Explanation:** Dice Pools solves the common RPG issue of advanced characters becoming too powerful as they upgrade. As one gains more and more DRs, their bonus gets more diffused and costly. Yet there is still some advancement. And new players can join with veterans and still contribute.
 
 Once a character accumulates more than 5 DR from skills, equipment, blessings, etc., these DRs form a **Dice Pool** of multiple dice:
 
