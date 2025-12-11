@@ -180,6 +180,33 @@ This represents the struggle to stay alive in the face of grievous injury or sho
 # Advanced Play
 
 ---
+## Penalty Dice
+
+Players and NPCs can gain **penalty DRs** for various reasons.  
+They **do not** apply these penalties directly to their rolls.
+
+Instead, the **GM applies penalty DRs** to major factors like:
+
+- **Difficulty** (making a task harder)  
+- **Defense** (making a target harder to hit)
+
+The GM rolls it separately and adds it to opposing rolls, defenses, or difficulties.
+
+The penalty DR is applied to **only one factor per turn**.  
+The GM may also forget or forgo using them.
+
+### Sources of Penalty Dice  
+The following examples combine to form a character’s total **Penalty Dice**:
+
+- Temporary pains (not fatal)  
+- Temporary frustrations (not fatal)  
+- Curses, fear  
+- Blurred or blind vision  
+- Minor afflictions (nausea, stings, rashes)  
+- Worn or broken gear  
+**Fatal if these total 6 DRs**  
+- Grievous Wounds  
+- Afflictions such as **poison, disease, sickness**
 
 ## Grievous Wounds (Advanced)
 
@@ -356,6 +383,88 @@ Vitality may then recover normally.
   - Gains **+2 DR** to the attempt  
   - Can still be resisted normally
 
+## Afflictions
+
+**Poison, disease, sickness.**  
+These are part of **Grievous Wounds**.  
+Beyond **–5 DR** is fatal.
+
+---
+
+## Bleed #
+
+“#” equals the amount of damage required to trigger Bleed.
+
+- Take **1 damage per round**.  
+- Bleed **can be cumulative**.  
+- **Save 12** with healing skills; 1 turn stops **1 Bleed**.  
+- **Heal Blessing** removes **1 Bleed per 1 DR** spent.
+
+---
+
+## Down / Prone
+
+- **–1 DR** to any rolls, *except* crossbow or guns, which get **+1 DR** if not in melee.  
+- **+1 DR** to be hit in melee.  
+- **+1 DR** damage received in melee.  
+- **–1 DR** to be hit by ranged attacks.  
+- Takes a **maneuver** to stand up.  
+- **Prowess roll-off** if contested.
+
+---
+
+## Temporary Pains, Shocks, Exhaustion
+
+- Apply **–DR penalties**.  
+- Beyond **–5 DR** results in **fatal shock**, passing out — but not fatal unless *unholy or severe* in nature.  
+- At **0 Vitality**, **Life Saves are not necessary**.
+
+**Causes:**  
+- Strain, accidents, over-exertion  
+- Not caused by violent attacks  
+
+**Recovery:**  
+- Requires **recovery time**, shaking it off, or minor first aid.
+
+**Note:**  
+Exhaustion is **not** part of Grievous Wounds or Afflictions for healing or dying,  
+but its **DR penalties are added** to any penalty rolls.
+
+---
+
+## Falling
+
+- **+1 DR damage per 10 feet** fallen.  
+- A fall is a **critical**, dealing **double damage** with possible **Grievous Wound**.  
+- Character **may roll Armor Save** to reduce damage.
+
+---
+
+## Fear  
+*(See Shocks above)*
+
+- Gives **penalty DRs** to rolls.  
+- Beyond **–5 DR** results in **paralyzing fear**.  
+- Character cannot **approach the source of fear**.
+
+**Resisting Fear:**  
+- Roll **Spirit** at the start of their turn to resist or overcome.  
+
+**Fear ends when:**  
+- The scene turns in the missionaries’ favor, at GM discretion.  
+- **Prayer** may counter fear.
+
+---
+
+## Restrained
+
+A restrained character:
+
+- **Cannot move** and/or  
+- **Cannot use an action**,  
+- OR may receive **penalty DRs** (GM discretion).
+
+See **Grappling** in the Combat section for details.
 
 ---
 
