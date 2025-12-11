@@ -190,6 +190,7 @@ This represents the struggle to stay alive in the face of grievous injury or sho
 
 ## Advanced Play
 ---
+- [Die Rank Results](#die-rank-results)
 - [Penalty Dice](#penalty-dice)
 - [Afflictions](#afflictions)
 - [Grievous Wounds](#grievous-wounds)
