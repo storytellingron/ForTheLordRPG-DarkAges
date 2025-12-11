@@ -1,4 +1,4 @@
-wth?
+
 # For The Lord RPG — Dark Ages
 
 *A Christian role‑playing game of evangelism, fellowship, and adventure.*
