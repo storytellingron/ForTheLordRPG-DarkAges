@@ -22,6 +22,8 @@ Check out the following pages:
 
 # Core Mechanics
 
+---
+
 ## Purpose
 - Player characters are **missionaries, saints, or evangelists** — not divine beings.
 - The focus of the game is **evangelism, fellowship, discipleship, and church planting**.
@@ -42,11 +44,9 @@ Most rolls in the game are resolved by rolling a **d20**, applying your **Trait*
 
 To resolve a roll:
 
-**`d20 + Trait + DR Die`**
+**`d20 + Trait + DRs`**
 
-**Die Ranks (DRs)** represent the upscaling of the die: d4, 46, d8, d10, d12
-
-### Die Ranks (DR)
+### Die Ranks (DRs)
 
 DRs represent upgraded die with a skill, training, gear, blessings, inspiration, and situational advantages.  
 For the simplest version of the game:
@@ -175,6 +175,12 @@ Life Saves continue each turn until the character stabilizes, recovers above 0 V
 
 This represents the struggle to stay alive in the face of grievous injury or shock — requiring both physical resolve and spiritual fortitude.
 
+---
+
+# Advanced Play
+
+---
+
 ## Grievous Wounds (Advanced)
 
 A **Grievous Wound** represents severe bodily harm. These wounds occur when:
@@ -246,9 +252,15 @@ The Difficulty to heal a Grievous Wound is:
 
 A healing attempt produces a **DRR**. Any DR above the Difficulty reduces the wound’s DR.
 
----
+### Order of Healing (Per Day)
 
-## Miracle of Healing (Blessing)
+1. **Miracle of Healing** (Nun / Blessed)  
+2. **Healer or Surgeon**  
+3. **Nightly Rest Healing** (required)
+
+Each step may reduce the wound’s DR through DRR.
+
+#### Miracle of Healing (Blessing)
 
 The Nun or Blessed character acts **first** because her miracle is the safest method.
 
@@ -263,9 +275,7 @@ For the Miracle of Healing:
 
 This represents divine aid working through her skills and devotion.
 
----
-
-## Healing Through Skills (Healer or Surgeon)
+#### Healing Through Skills (Healer or Surgeon)
 
 After the Nun’s attempt (if any), a healer may treat the wound:
 
@@ -276,15 +286,13 @@ After the Nun’s attempt (if any), a healer may treat the wound:
 
 May be attempted **once per day**.
 
----
-
-## Rest Healing (Nightly Required Roll)
+#### Rest Healing (Nightly Required Roll)
 
 Every full night of rest, the wounded character must roll:
 
 **Prowess or Spirit + {any chosen DRs}kh vs (12 + Wound DR)**
 
-### The Pain Rule (Special)
+##### The Pain Rule (Special)
 
 If the patient chooses to add **any** of their own DRs  
 (e.g., Medical knowledge, Blessings, Inspired Die, Hope DR, etc.):
@@ -299,19 +307,8 @@ Failure or very low DRR may worsen the wound (GM discretion).
 
 The Rest Healing roll is **mandatory** until the wound is fully healed.
 
----
 
-## Order of Healing (Per Day)
-
-1. **Miracle of Healing** (Nun / Blessed)  
-2. **Healer or Surgeon**  
-3. **Nightly Rest Healing** (required)
-
-Each step may reduce the wound’s DR through DRR.
-
----
-
-## Resolving Complete Healing
+#### Resolving Complete Healing
 
 When the Wound DR reaches **0**, the Grievous Wound is healed.
 
@@ -319,16 +316,23 @@ Vitality may then recover normally.
 
 ---
 
-
-
 ## Special Rules
 
-#### Grappling
+### Grappling (Simple Version)
 
-- **Escape:** roll Awareness to break free.  
-- **Control:** roll off using weapon or grappling skills.  
-- **Effect:** the winner may inflict DR penalties or drain Vitality based off the DRR result.
-- 
+- A grapple is a struggle between two combatants in close combat.
+- To attempt a grapple, the attacker and defender each roll:
+  `d20 + Awarenes and/or Weapon/Grappling Skill` to escape or grapple.
+- Compare results:
+  - The **higher total wins** the grapple struggle.
+  - Subtract the lesser roll from the greater; **halve** the difference.
+  - The winner may split that DR between:
+    - **Vitality drain** (minor injury) and/or  
+    - **Penalties** to the target’s future rolls.
+    - **Escaping** bonus to move away, defense or counter strike.
+- If the defender wins a roll, they **escape** the grapple and negate its effects.
+- Each turn, both sides roll opposed grappling again, carrying over prior penalties as bonuses to the winner.
+  
 ### Point Blank & Ambush
 
 - Point Blank applies only at **melee range** against a target that is:
@@ -351,8 +355,6 @@ Vitality may then recover normally.
   - Hits on anything except **Nat1**  
   - Gains **+2 DR** to the attempt  
   - Can still be resisted normally
-
-
 
 
 ---
