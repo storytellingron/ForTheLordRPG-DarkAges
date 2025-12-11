@@ -13,6 +13,7 @@ Check out the following pages:
 
 ## Table of Contents
 - [Core Mechanics](#core-mechanics)
+- [Advanced Play](#advanced-play)
 - [Character Creation](#character-creation)
 - [GM Guidelines](#gm-guidelines)
 - [Creatures & Beasts](#creatures--beasts)
@@ -25,12 +26,13 @@ Check out the following pages:
 
 ---
 
+- [Purpose](#purpose)
+- [Gameplay](#gameplay)
 - [Dice System](#dice-system)
 - [Rolling the Dice](#rolling-the-dice)
 - [Difficulty](#difficulty)
 - [Combat](#combat)
-- [Grievous Wounds (Advanced)](#grievous-wounds-advanced)
-- [Special Rules](#special-rules)
+
 
 
 ---
@@ -134,11 +136,7 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 - **Extreme conditions:** GM may combine situational DRs (darkness, wet, mud, storm, under attack, etc...) to the **Armor Save** DR, then rolling. For easy play, no more than 5DRs total.
 - **Explanation:** This gives both GM and players an easy way to understand the situation and lets the dice decide how hard it is.
 
-### Die Rank Results (DRR) — (Advanced)
-- On success: (Total − Difficulty) ÷ 2 = **DRR bonus**.  
-- On failure: (Difficulty − Total) ÷ 2 = **DRR penalty**.  
-- DRR may be applied immediately to healing, repairs, treasure, aid, or penalties like damage or gear wear.  
-- **Explanation:** GM can ignore this or use to help define the results of a roll.
+
 
 ## Combat
 - **Surprise / Ambush:** Opponents make an Awareness roll-off. Use highest Awareness from each group. Winners may get first free attack. The GM may give the highest Armor Save DRs of each group, as a bonus, to the other group!
@@ -193,6 +191,15 @@ This represents the struggle to stay alive in the face of grievous injury or sho
 ## Advanced Play
 
 ---
+
+### Die Rank Results (DRR) — (Advanced)
+- On success: (Total − Difficulty) ÷ 2 = **DRR bonus**.  
+- On failure: (Difficulty − Total) ÷ 2 = **DRR penalty**.  
+- DRR may be applied immediately to healing, repairs, treasure, aid, or penalties like damage or gear wear.  
+- **Explanation:** GM can ignore this or use to help define the results of a roll.
+
+---
+
 ## Penalty Dice
 
 Players and NPCs can gain **penalty DRs** for various reasons.  
