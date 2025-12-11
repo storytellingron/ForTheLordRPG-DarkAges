@@ -11,7 +11,7 @@ Check out the following pages:
 
 
 ## Table of Contents
-- [Core Rules](#core-rules)
+- [Core Mechanics](#core-mechanics)
 - [Character Creation](#character-creation)
 - [GM Guidelines](#gm-guidelines)
 - [Creatures & Beasts](#creatures--beasts)
