@@ -60,7 +60,8 @@ For the simplest version of the game:
 In the simple game, characters should be limited to **5 DR**, so a single bonus die for any rolls. This caps any bonuses from skill, gear, blessings, situational bonuses. This helps simplify the game for both GMs and players. The GM should accordingly, keep NPCs and encounters at relatively low stats, especially armor saves! Start with easier challenges, i.e. poor bandits, feral vermin.
 
 ### The Dice Pool (Advanced)
-Incorporating the advanced version should come after players and GMs understand the basic rolls for combat & encounters, how to use blessings and how to advance their character's skills and armor with Glory Points. 
+Incorporating the advanced version should come after players and GMs understand the basic rolls for combat & encounters, how to use blessings and how to advance their character's skills and armor with Glory Points.
+- **Explanation:** This solves the common RPG issue of advanced characters becoming too powerful as they upgrade. As one gains more and more DRs, their bonus gets more diffused and costly. Yet there is still some advancement. And new players can join a long campaign and still contribute.
 
 Once a character accumulates more than 5 DR from skills, equipment, blessings, etc., these DRs form a **Dice Pool** of multiple dice:
 
@@ -116,13 +117,14 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 ### Adjusting Difficulty
 - **Opposed checks:** both sides roll; higher total wins.  
 - **Treacherous terrain:** GM rolls the character’s **Armor Save** to add to the Difficulty. This gives the sense of the armor's burden. Only apply the basic Armor Save versus if the character upgraded it with Glory Points. 
-- **Extreme conditions:** GM may combine situational DRs (darkness, wet, mud, storm, under attack, etc...) to the **Armor Save** DR, then rolling.
+- **Extreme conditions:** GM may combine situational DRs (darkness, wet, mud, storm, under attack, etc...) to the **Armor Save** DR, then rolling. For easy play, no more than 5DRs total.
+- **Explanation:** This gives both GM and players an easy way to understand the situation and lets the dice decide how hard it is.
 
-## Die Rank Results (DRR) — Optional Rule
+## Die Rank Results (DRR) — (Advanced)
 - On success: (Total − Difficulty) ÷ 2 = **DRR bonus**.  
 - On failure: (Difficulty − Total) ÷ 2 = **DRR penalty**.  
 - DRR may be applied immediately to healing, repairs, treasure, aid, or penalties like damage or gear wear.  
-- GM can ignore this or use to help define the results of a roll.
+- **Explanation:** GM can ignore this or use to help define the results of a roll.
 
 ## Combat
 - **Surprise / Ambush:** Opponents make an Awareness roll-off. Use highest Awareness from each group. Winners may get first free attack. The GM may give the highest Armor Save DRs of each group, as a bonus, to the other group!
@@ -136,8 +138,9 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 - **Magic, Curses or Blessings** of any sort, may only be used once per turn.
 
 ## Damage & Healing
-- **Weapons** deal damage from **d4 to d12**, depending on size and type. In advanced play, these may go beyond 5DRs due to gear or skill upgrades!  
+- **Weapons** deal damage from **d4 to d12**, depending on size and type. In advanced play, these may go beyond 5DRs due to gear or skill upgrades. 
 - **Vitality (PCs)** and **Vigor (NPCs)** decrease when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
+- **0 Or Less** At 0, one is out, utterly exhausted, but stable. At a negative, the **Life Save** rules are used. One could fade from this world! For NPCs, 0 or less, the GM can decide if they are utterly exhausted, deceased or able to be healed and does not need to use exact rules.
   
 After taking damage:
 
@@ -153,7 +156,7 @@ After taking damage:
 - **Nat1:** consult the fumble table (e.g., strike an ally, stumble, drop or damage gear).  
 - **Avoiding Fumbles:** higher DR values help reduce the likelihood of suffering a catastrophic outcome, the 7+ Rule.
 
-## Grievous Wounds
+## Grievous Wounds (Advanced)
 
 A **Grievous Wound** represents severe bodily harm. These wounds occur when:
 
