@@ -25,6 +25,12 @@ Check out the following pages:
 
 ---
 
+- [Dice System](#dice-system)
+- [Rolling the Dice](#rolling-the-dice)
+- [Difficulty](#difficulty)
+- [Combat](#combat)
+- [Grievous Wounds (Advanced)](#grievous-wounds-advanced)
+- [Special Rules](#special-rules)
 
 
 ---
@@ -85,9 +91,6 @@ Dice Pools are written like this:
 
 The acting player rolls all dice in their pool, but only the highest result gets added to the d20 total, unless modified by 7+ results (see below).
 
----
-[Back to Top](#for-the-lord-rpg--dark-ages)
----
 
 ## Rolling the Dice
 
@@ -131,7 +134,7 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 - **Extreme conditions:** GM may combine situational DRs (darkness, wet, mud, storm, under attack, etc...) to the **Armor Save** DR, then rolling. For easy play, no more than 5DRs total.
 - **Explanation:** This gives both GM and players an easy way to understand the situation and lets the dice decide how hard it is.
 
-## Die Rank Results (DRR) — (Advanced)
+### Die Rank Results (DRR) — (Advanced)
 - On success: (Total − Difficulty) ÷ 2 = **DRR bonus**.  
 - On failure: (Difficulty − Total) ÷ 2 = **DRR penalty**.  
 - DRR may be applied immediately to healing, repairs, treasure, aid, or penalties like damage or gear wear.  
@@ -187,7 +190,7 @@ This represents the struggle to stay alive in the face of grievous injury or sho
 
 ---
 
-# Advanced Play
+## Advanced Play
 
 ---
 ## Penalty Dice
@@ -218,7 +221,32 @@ The following examples combine to form a character’s total **Penalty Dice**:
 - Grievous Wounds  
 - Afflictions such as **poison, disease, sickness**
 
-## Grievous Wounds (Advanced)
+- ## Afflictions
+
+Poison, disease, and similar conditions are treated as **Grievous Wounds**.  
+If an Affliction’s DR penalty becomes **worse than −5 DR**, it is **fatal**.
+
+Stun, fear and other temporary penalties are not part of the fatal condition but will still add to the DR penalty.
+
+Afflictions are gained from:
+
+- Failing disease or poison rolls.  
+- Prolonged exposure to harsh environments.  
+- Curses or spiritual attacks (GM discretion).  
+- Failing specific encounter hazards.
+
+**Recovery:**  
+Afflictions can be removed through:
+
+- Time and rest,  
+- Medical care,  
+- Herbal treatments,  
+- Prayer or blessings,  
+- Completing certain quests.
+
+The GM determines the steps and difficulty of recovery.
+
+## Grievous Wounds
 
 A **Grievous Wound** represents severe bodily harm. These wounds occur when:
 
@@ -254,30 +282,6 @@ Grievous Wounds impose a **DR penalty** that affects:
 
 These wounds persist until treated through appropriate care, skills, or blessings. Healing such are noted in the skills, Miracle of Healing and DRR rules.
 
-### Afflictions
-
-Poison, disease, and similar conditions are treated as **Grievous Wounds**.  
-If an Affliction’s DR penalty becomes **worse than −5 DR**, it is **fatal**.
-
-Stun, fear and other temporary penalties are not part of the fatal condition but will still add to the DR penalty.
-
-Afflictions are gained from:
-
-- Failing disease or poison rolls.  
-- Prolonged exposure to harsh environments.  
-- Curses or spiritual attacks (GM discretion).  
-- Failing specific encounter hazards.
-
-**Recovery:**  
-Afflictions can be removed through:
-
-- Time and rest,  
-- Medical care,  
-- Herbal treatments,  
-- Prayer or blessings,  
-- Completing certain quests.
-
-The GM determines the steps and difficulty of recovery.
 
 ### Healing Grievous Wounds
 
