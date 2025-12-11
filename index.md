@@ -192,7 +192,7 @@ This represents the struggle to stay alive in the face of grievous injury or sho
 
 ---
 
-### Die Rank Results (DRR) — (Advanced)
+## Die Rank Results (DRR)
 - On success: (Total − Difficulty) ÷ 2 = **DRR bonus**.  
 - On failure: (Difficulty − Total) ÷ 2 = **DRR penalty**.  
 - DRR may be applied immediately to healing, repairs, treasure, aid, or penalties like damage or gear wear.  
@@ -228,7 +228,7 @@ The following examples combine to form a character’s total **Penalty Dice**:
 - Grievous Wounds  
 - Afflictions such as **poison, disease, sickness**
 
-- ## Afflictions
+## Afflictions
 
 Poison, disease, and similar conditions are treated as **Grievous Wounds**.  
 If an Affliction’s DR penalty becomes **worse than −5 DR**, it is **fatal**.
