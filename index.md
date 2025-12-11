@@ -23,16 +23,7 @@ Check out the following pages:
 # Core Mechanics
 
 ---
-- [Purpose of Play](#purpose-of-play)
-- [Gameplay Loop](#gameplay-loop)
-- [Dice System](#dice-system)
-- [Combat](#combat)
-- [Defense & Protection](#defense--protection)
-- [Damage, Rest & Healing](#damage-rest--healing)
-- [Conditions & Special Rules](#conditions--special-rules)
-- [Equipment](#equipment)
-- [Optional Advanced Play](#optional-advanced-play)
----
+
 
 ## Purpose
 - Player characters are **missionaries, saints, or evangelists** — not divine beings.
