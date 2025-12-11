@@ -179,8 +179,7 @@ Fire may spread or diminish at GM discretion.
 | Heavy Weapons        | d10        | Heavy       | Maces, hammers, battle axes |
 | Very Heavy Weapons   | d12        | Heavy       | Great axes, war hammers; slow but powerful |
 | Shortbow             | d6         | Medium      | Standard ranged weapon |
-| Crossbow (pre-loaded) | d8        | Medium      | Fires first if already loaded |
-| Crossbow (loading)   | d8         | Medium      | Must use **maneuver to load**; otherwise fires last |
+| Crossbow             | d8        | Medium      | Fires first if loaded, or last if must load |
 | Throwing Weapons     | d4         | Light       | Limited range |
 
 ### Armor Saves
