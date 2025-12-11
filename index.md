@@ -189,6 +189,11 @@ This represents the struggle to stay alive in the face of grievous injury or sho
 ---
 
 ## Advanced Play
+---
+- [Penalty Dice](#penalty-dice)
+- [Afflictions](#afflictions)
+- [Grievous Wounds](#grievous-wounds)
+- [Special Rules](#special-rules)
 
 ---
 
