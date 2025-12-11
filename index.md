@@ -101,6 +101,10 @@ Dice Pools are written like this:
 
 The acting player rolls all dice in their pool, but only the highest result gets added to the d20 total, unless modified by 7+ results (see below).
 
+---
+[Back to Top](#for-the-lord-rpg--dark-ages)
+---
+
 ## Rolling the Dice
 
 To make a check:
