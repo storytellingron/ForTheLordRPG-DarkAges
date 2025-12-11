@@ -43,7 +43,7 @@ To resolve a roll versus a difficulty:
 
 **`d20 + Trait + DR Die`**
 
-The **Die** comes from your **Die Ranks (DRs)** (see below).
+**Die Ranks (DRs)** represent the upscaling of the die: d4, 46, d8, d10, d12
 
 ### Die Ranks (DR)
 
@@ -57,7 +57,7 @@ For the simplest version of the game:
 - **5 DR → d12**
 
 ### Simple Game
-In the simple game, characters should be limited to **5 DR**, so a single bonus die for any rolls. This caps any bonuses from skill, gear, blessings, situational bonuses. This helps simplify the game for both GMs and players. The GM should accordingly, keep NPCs and encounters at relatively low stats, especially armor saves! Start with easier challenges, i.e. poor bandits, feral vermin.
+In the simple game, characters are limited to **5 DR**, a single bonus die for any rolls. This caps any bonuses from skill, gear, blessings, situational bonuses. This helps simplify the game for both GMs and players. The GM should accordingly, keep NPCs and encounters at relatively low stats, especially armor saves! Start with easier challenges, i.e. poor bandits, feral vermin.
 
 ### The Dice Pool (Advanced)
 Incorporating the advanced version should come after players and GMs understand the basic rolls for combat & encounters, how to use blessings and how to advance their character's skills and armor with Glory Points.
