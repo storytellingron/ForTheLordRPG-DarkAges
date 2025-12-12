@@ -131,11 +131,10 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 - Meet or exceed the Difficulty to succeed.
 
 ### Adjusting Difficulty
-- **Opposed checks:** both sides roll; higher total wins.  
+- **Opposed checks:** both sides roll; higher total wins. This is for evangelism, trade, persuasion, interrogation but also for grappling and blocking each other.  
 - **Treacherous terrain:** GM rolls the character’s **Armor Save** to add to the Difficulty. This gives the sense of the armor's burden. Only apply the basic Armor Save versus if the character upgraded it with Glory Points. 
 - **Extreme conditions:** GM may combine situational DRs (darkness, wet, mud, storm, under attack, etc...) to the **Armor Save** DR, then rolling. For easy play, no more than 5DRs total.
 - **Explanation:** This gives both GM and players an easy way to understand the situation and lets the dice decide how hard it is.
-
 
 
 ## Combat
@@ -178,9 +177,6 @@ When a player rolls a **Natural 1** on a d20 attack roll, roll **1d6** on this t
 | 5  | **Weapon damaged.** Your weapon is damaged. Reduce it by one DR of damage.|
 | 6  | **Item damaged.** If ranged, mark ammo as low, then depleted. If shield is in use mark as damaged, then destroyed. Or randomly pick a gear. Returning to town can replenish or repair.|
 
-### Avoiding Fumbles (Simple Rule)
-If the GM determines the situation is non-stressful (friendly training, safe experiments, or blessings outside combat), **ignore Nat1 fumbles**.
-
 ### Life Saves & Conditions
 
 When a character’s **Vitality is 0 or less**, they must make **Life Saves** each turn until stabilized or dead.
@@ -200,6 +196,70 @@ Life Saves continue each turn until the character stabilizes, recovers above 0 V
 This represents the struggle to stay alive in the face of grievous injury or shock — requiring both physical resolve and spiritual fortitude.
 
 ---
+
+## Skill Examples
+
+Below are examples of common skill uses, the Traits they rely on, and whether the roll is against **Difficulty 12** or a **roll-off** against an NPC or creature. These denote possible skills and upgrading them. Players can come up with any skill, with GM's approval on scope & usage. The default 12 denotes quick easy gameplay but can be changed by GM due to the challenge.
+
+### Prowess
+- Climbing walls, cliffs, or trees — vs 12 + Armor Save  
+- Jumping, tumbling, or leaping gaps — vs 12 + Armor Save 
+- Grappling or shoving an opponent — roll-off  
+- Dodging thrown objects — roll-off
+- Strength tests - vs 12
+  
+### Awareness
+- Spotting hidden objects — vs 12  
+- Noticing danger, traps, or ambush — vs 12  
+- Tracking someone in mud or snow — vs 12  
+- Listening through a door — vs 12
+- Sneaking, hiding against others - roll off, Armor Saves may be used? 
+
+### Savvy
+- Repairing tools, weapons, or armor — vs 12 + DR damage (optional)  
+- Identifying herbs, ailments, or dangerous flora — vs 12  
+- Navigating a ruined site or dungeon per small area — vs 12  
+- Disabling simple traps — vs 12
+- Picking Locks with tools! - vs 12  
+
+### Spirit
+- Preaching, evangelizing, spiritual debates - roll-off
+- Enduring fear, darkness, or horror — vs 12 or !!! 
+- Resisting temptations or coercion — roll-off or vs 12  
+- Recognizing spiritual presence or disturbance — vs 12  
+- Maintaining composure under stress — vs 12
+- Persevering, resisting pain, poisons - vs 12  
+
+### Intellect
+- Recalling scripture, theology, or Church teaching — vs 12  
+- Remembering local history, laws, or noble lineages — vs 12  
+- Reading or translating texts (Latin, Greek, or runes) — vs 12  
+- Crafting of all kinds — vs 12  
+  (armor-smithing, weapon forging, leather-working, sewing, cooking, engineering, repairing structures, building tools, brewing, and other disciplined crafts)
+
+
+### Society
+(Most Society tasks are **roll-offs**, as they involve people.)
+- Persuading a stubborn villager — roll-off  
+- Performance, storytelling, entertain — roll-off  
+- Negotiating with merchants or lords — roll-off  
+- Reading a crowd’s mood — vs 12
+- Understanding a social situation - vs 12
+- Perceiving skullduggery - vs 12 or roll-off  
+
+These examples show how Traits map to skills and give the GM easy targets to call upon during play.
+
+---
+
+## Situational DR Modifiers
+
+The GM may add **+1 DR** for each element making the task more difficult. For the simple game, the max is 5DRs and the GM should average it out to about 3DR if called for. Describing each major DR factor, the GM then rolls the corresponding die infront of players and adds it to the difficulty. This will include the armor save, again to a max of 5DRs for beginning game.
+
+Here is a list of colorful examples a GM may describe:
+
+muddy, wet, stormy, icy, windy, dark, dim-lit, smoky, foggy, swaying, crowded, noisy, echoing, slippery, sweaty, cold, freezing, burning hot, feverish, thorny, tangled, cramped, narrow, uneven, unstable, debris-strewn, cluttered, haunted-feeling, blood-stained, nauseating, smelly, foul, dizzying, panicked, rushed, time-pressured, hungry, thirsty, exhausted, shivering, blinded by sun, half-blind from smoke, disoriented, intimidated, overwhelmed, encumbered, carrying someone, startled, distracted, frightened, desperate, dripping wet, ankle-deep water, knee-deep mud, waist-deep snow, insects swarming, wolves howling, bells ringing, torches sputtering, arrows whistling past, armor rattling, horse bucking, shield slipping, cloak snagging on brambles.
+
+This list is not exhaustive — it exists to inspire rich descriptions of tense, gritty challenges.
 
 ## Advanced Play
 ---
