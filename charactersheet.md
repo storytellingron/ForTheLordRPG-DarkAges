@@ -11,8 +11,8 @@
 
 | Prowess | ___ | Spirit | ___ |
 |:---:|:---:|:---:|:---:|
-| Awareness | ___ | Intellect | ___ |
-| Savvy | ___ | Society | ___ |
+| **Awareness** | ___ | **Intellect** | ___ |
+| **Savvy** | ___ | **Society** | ___ |
 
 
 
