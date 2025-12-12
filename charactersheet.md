@@ -1,34 +1,32 @@
 # Character ___________________________   Player ___________________________
-Calling / Order ________________________   Background _______________________
+Calling / Order ________________________   Glory Points *Total/Unspent* _______________________
 
-## Traits & Faith
+## Traits
+| Prowess   | ___ |    | Spirit    | ___ |     
+| Awareness | ___ |    | Intellect | ___ |
+| Savvy     | ___ |    | Society   | ___ |
+ Inspired Die | ___ |
 
-| Trait | Val | Faith & Glory | Val |
-|------|:---:|---------------|:---:|
-| Awareness | ___ | Faith Points | ___ |
-| Prowess   | ___ | Inspired Die | ___ |
-| Society   | ___ | Glory Points | ___ |
-| Savvy     | ___ |               |     |
-| Intellect | ___ |               |     |
-| Spirit    | ___ |               |     |
-
-## Vitality & Defense
-| Vitality (Cur / Max) | Defense | Armor Save | Shield | Helm |
-|---------------------|---------|------------|--------|------|
-| ______ / ______     | _______ | d__        | +__    | +__  |
-
+### Faith Points
+| Spirit    | ___ | + Skill | ___ |
+  
+**For the Day**          |       |
+**For the Encounter**    |       |
+           
 ## Weapons
-| Weapon | Damage | Burden | Notes |
-|--------|--------|--------|-------|
-| ______ | d__    | Light / Med / Heavy | ______ |
-| ______ | d__    | Light / Med / Heavy | ______ |
+|   Weapon   |   To Hit   |  Damage   | Burden   | Range   |Style                          |
+|------------|------------|-----------|----------|---------|-------------------------------|
+| __________ | __________ | _________ | ________ | _______ | ______________________________|
+| __________ | __________ | _________ | ________ | _______ | ______________________________|
 
-## Armor & Gear
-| Item | Type | Burden | Notes |
-|------|------|--------|-------|
-| Armor | d__ Save | Light / Med / Heavy | ______ |
-| Shield / Helm | Defense | Light / Med | ______ |
-| Gear | — | Light / Med / Heavy | ______ |
+## Defense     | ______ |      Notes | ____________________________________ |
+## Armor Save  | ______ |      Notes | ____________________________________ |
+## Vitality    | ______ |      Notes | ____________________________________ |
+
+
+## Gear & Burden
+**HeavyII          MediumIII          LightIIII                Additional Gear(not worn)**
+| ____________ |  | ____________ |  | __________________ |    | ________________________ |
 
 ## Skills & Blessings (DR)
 | Name | Trait | DR | Notes |
