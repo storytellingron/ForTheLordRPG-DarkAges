@@ -556,7 +556,7 @@ but its **DR penalties are added** to any penalty rolls.
 - **Prayer** may counter fear.
 
 ---
-
+   
 ### Restrained
 
 A restrained character:
@@ -595,11 +595,15 @@ See **Grappling** in the Combat section for details.
 
 ## Gear & Burden
 - Categories: Heavy (II), Medium (III), Light (IIII).
-- Weapons and armor count as gear.
-- Overburden = -1DR or Armor Save penalty, GM may apply as a penalty die.
-- Donkey + cart can carry heavy loads, free for the Patron Lady.
-- Wear & Tear: Nat1 can add low to ammo or damaged to gear. Next would be depleted or destroyed. 
-- Crafting/Repair: Difficulty = 12, a success repairs depleted or damaged. Must have tools, time, materials.
+- All gear, weapons, armor are categorzied into the three areas.
+- Players can only carry the amount of each category withou a DR penalty.
+- Backpacks, sacks, belts with scabbards can increase it.
+- Overburden = -1DR or Armor Save DR penalty.
+- Donkey + cart can carry heavy loads but are not immediately accessible, free for the Patron Lady.
+- **Wear & Tear:** Nat1 can add low to ammo or damaged to gear. Next would be depleted or destroyed. 
+- **Repair:** Difficulty = 12, a success repairs depleted or damaged. Must have time & tools.
+- **Repair Armor:** Difficulty = 12, a success repairs one DR of damage. Must have time & tools.
+- **Time & Tools:** time would be one repair per long rest, specific tool kits for the category.
 
 ---
 
