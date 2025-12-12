@@ -149,24 +149,37 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 - **Magic, Curses or Blessings** that adversely affect a target are in the ranged initiative order.
 - **Magic, Curses or Blessings** of any sort, may only be used once per turn.
 
-### Damage & Healing
-- **Weapons** deal damage from **d4 to d12**, depending on size and type. In advanced play, these may go beyond 5DRs due to gear or skill upgrades. 
-- **Vitality (PCs)** and **Vigor (NPCs)** decrease when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
-- **0 Or Less** At 0, one is out, utterly exhausted, but stable. At a negative, the **Life Saves** rules are used. One could fade from this world! For NPCs, 0 or less, the GM can decide if they are utterly exhausted, deceased or able to be healed and does not need to use exact rules.
-  
-After taking damage:
+### Damage
+- **Weapons** deal damage from **d4 to d12**, depending on size and type. In advanced play, these may go beyond 5DRs.
+- **Vitality (PCs)** and **Vigor (NPCs)** number decreases when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
+- **Armor Save:** roll armor to reduce incoming damage. A mininum of 1 damage if the weapon die is higher than the armor save DR.
+- A character at **0 Vitality or Less** is out and triggers the **Life Saves** rules.
+- A villain at **0 Vigor or Less** is deceased. If missionaries want to save them, at GMs descrition, and great healing rolls, they may.
 
-- **Armor Save:** roll armor to reduce incoming damage; armor or gear may be sacrificed to absorb grievous wounds.
-- A character or monster at **0 Vitality or Less** cannot act normally until stabilized.
-
+### Healing, Vitality
 - **Short Rest:** recover **Prowess or Spirit + d4**.  
 - **Full Rest:** restore all Vitality.
 
 ### Criticals & Fumbles
-
-- **Nat20:** automatic success, **double damage**, and **Grievous Wounds rule** applies.  
+- **Nat20:** automatic success, **double damage**, and **Grievous Wounds rule** applies, if advanced rules used.  
 - **Nat1:** consult the fumble table (e.g., strike an ally, stumble, drop or damage gear).  
 - **Avoiding Fumbles:** higher DR values help reduce the likelihood of suffering a catastrophic outcome, the 7+ Rule.
+
+#### Nat1 Fumble Chart
+
+When a player rolls a **Natural 1** on a d20 attack roll, roll **1d6** on this table:
+
+| d6 | Fumble Result |
+|----|---------------|
+| 1  | **Hit an ally!** Roll weapon damage as normal; they may apply their Armor Save. If there, otherwise, do #2. |
+| 2  | **Hit yourself.** Roll your own weapon damage and apply Armor Save. |
+| 3  | **Fall prone.** Must use next manuever to get up, take **d4 damage** with no Armor Save. |
+| 4  | **Self-stagger.** You stumble fiercly about, take **d4 damage** with no Armor Save). |
+| 5  | **Weapon damaged.** Your weapon is damaged. Reduce it by one DR of damage.|
+| 6  | **Item damaged.** If ranged, mark ammo as low, then depleted. If shield is in use mark as damaged, then destroyed. Or randomly pick a gear. Returning to town can replenish or repair.|
+
+### Avoiding Fumbles (Simple Rule)
+If the GM determines the situation is non-stressful (friendly training, safe experiments, or blessings outside combat), **ignore Nat1 fumbles**.
 
 ### Life Saves & Conditions
 
