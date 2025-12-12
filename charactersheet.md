@@ -3,14 +3,11 @@
 **Calling / Order ________________________   Glory Points *Total/Unspent* _______________________**
 
 ## Traits
-| Prowess   | ___ |    | Spirit    | ___ |     
-| Awareness | ___ |    | Intellect | ___ |
-| Savvy     | ___ |    | Society   | ___ |
- Inspired Die | ___ |
 
 
-| Prowess | ___ | Spirit | ___ |
-|:---:|:---:|:---:|:---:|
+
+| Prowess | ___ | Spirit | ___ | Inspired Die | ___ |
+|:---:|:---:|:---:|:---:|:---:|
 | **Awareness** | ___ | **Intellect** | ___ |
 | **Savvy** | ___ | **Society** | ___ |
 
