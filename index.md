@@ -206,21 +206,21 @@ Below are examples of common skill uses, the Traits they rely on, and whether th
 - Jumping, tumbling, or leaping gaps — vs 12 + Armor Save 
 - Grappling or shoving an opponent — roll-off  
 - Dodging thrown objects — roll-off
-- Strength tests - vs 12
+- Strength tests — vs 12
   
 ### Awareness
-- Spotting hidden objects — vs 12  
+- Spotting hidden objects or basic clues — vs 12  
 - Noticing danger, traps, or ambush — vs 12  
 - Tracking someone in mud or snow — vs 12  
 - Listening through a door — vs 12
-- Sneaking, hiding against others - roll off, Armor Saves may be used? 
+- Sneaking, hiding against others — roll off, Armor Saves may be used? 
 
 ### Savvy
 - Repairing tools, weapons, or armor — vs 12 + DR damage (optional)  
 - Identifying herbs, ailments, or dangerous flora — vs 12  
 - Navigating a ruined site or dungeon per small area — vs 12  
 - Disabling simple traps — vs 12
-- Picking Locks with tools! - vs 12  
+- Picking Locks with tools! — vs 12  
 
 ### Spirit
 - Preaching, evangelizing, spiritual debates - roll-off
@@ -228,9 +228,10 @@ Below are examples of common skill uses, the Traits they rely on, and whether th
 - Resisting temptations or coercion — roll-off or vs 12  
 - Recognizing spiritual presence or disturbance — vs 12  
 - Maintaining composure under stress — vs 12
-- Persevering, resisting pain, poisons - vs 12  
+- Persevering, resisting pain, poisons — vs 12  
 
 ### Intellect
+- Extrapolating info from clues, crime scene — vs 12
 - Recalling scripture, theology, or Church teaching — vs 12  
 - Remembering local history, laws, or noble lineages — vs 12  
 - Reading or translating texts (Latin, Greek, or runes) — vs 12  
@@ -262,6 +263,9 @@ muddy, wet, stormy, icy, windy, dark, dim-lit, smoky, foggy, swaying, crowded, n
 This list is not exhaustive — it exists to inspire rich descriptions of tense, gritty challenges.
 
 ## Advanced Play
+
+This can be introduced after GMs and players get the hang of combat, rolling skills, blessings, roleplaying and upgrading with Glory Points. If a long campaign is desired.
+
 ---
 - [Die Rank Results (DRR)](#die-rank-results-drr)
 - [Penalty Dice](#penalty-dice)
