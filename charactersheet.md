@@ -1,4 +1,5 @@
 **Character ___________________________   Player ___________________________**
+
 **Calling / Order ________________________   Glory Points *Total/Unspent* _______________________**
 
 ## Traits
