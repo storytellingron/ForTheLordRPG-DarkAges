@@ -8,11 +8,12 @@
 | Savvy     | ___ |    | Society   | ___ |
  Inspired Die | ___ |
 
-|----------|----------|----------|----------|
-| Prowess |  | Column 3 | Column 4 |
-| Row 1   | Data     | Data     | Data     |
-| Row 2   | Data     | Data     | Data     |
-| Row 3   | Data     | Data     | Data     |
+
+| Prowess | ___ | Spirit | ___ |
+|:---:|:---:|:---:|:---:|
+| Awareness | ___ | Intellect | ___ |
+| Savvy | ___ | Society | ___ |
+
 
 
 ### Faith Points
