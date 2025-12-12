@@ -279,12 +279,12 @@ This list is not exhaustive — it exists to inspire rich descriptions of tense,
 
 ---
 
-## Penalty Dice
+## DR Penalty
 
-Players and NPCs can gain **penalty DRs** for various reasons.  
+Players and NPCs can gain **DR Penalty** for various reasons.  
 They **do not** apply these penalties directly to their rolls.
 
-Instead, the **GM applies penalty DRs** to major factors like:
+Instead, the **GM applies DR Penalty** to major factors like:
 
 - **Difficulty** (making a task harder)  
 - **Defense** (making a target harder to hit)
@@ -294,28 +294,25 @@ The GM rolls it separately and adds it to opposing rolls, defenses, or difficult
 The penalty DR is applied to **only one factor per turn**.  
 The GM may also forget or forgo using them.
 
-### Sources of Penalty Dice  
-The following examples combine to form a character’s total **Penalty Dice**:
+### Sources of DR Penalty  
+The following examples combine to form a character’s total **DR Penalty**:
 
-- Temporary pains (not fatal)  
-- Temporary frustrations (not fatal)  
+- Temporary pains & stuns (not fatal)  
+- Temporary frustrations, failed rolls (not fatal)  
 - Curses, fear  
 - Blurred or blind vision  
-- Minor afflictions (nausea, stings, rashes)  
-- Worn or broken gear  
-**Fatal if these total 6 DRs**  
+- Minor afflictions (nausea, stings, rashes)
+- Over burdened.
+**Below are Fatal if beyond 5DRs**  
 - Grievous Wounds  
 - Afflictions such as **poison, disease, sickness**
 
 ## Afflictions
 
 Poison, disease, and similar conditions are treated as **Grievous Wounds**.  
-If an Affliction’s DR penalty becomes **worse than −5 DR**, it is **fatal**.
-
-Stun, fear and other temporary penalties are not part of the fatal condition but will still add to the DR penalty.
+If an Affliction’s DR penalty becomes **worse than 5 DR**, it is **fatal**. There is no Life Save.
 
 Afflictions are gained from:
-
 - Failing disease or poison rolls.  
 - Prolonged exposure to harsh environments.  
 - Curses or spiritual attacks (GM discretion).  
@@ -584,19 +581,21 @@ See **Grappling** in the Combat section for details.
 - **Society**: persuasion, leadership, performance, teaching.
 
 ## Callings
-- **Holy Warrior**: Prowess + Spirit; strong combat, blessings.
-- **Mercenary**: Prowess + Awareness; maneuvers, tactics.
+- **Holy Warrior**: Prowess + Spirit; combat, blessings, vs unholy.
+- **Mercenary**: Prowess + Awareness; strong combat, maneuvers, guard.
 - **Scout**: Awareness + Savvy; tracking, foraging, perception.
-- **Clergy / Warrior Priest**: Spirit + Intellect/Society; blessings, preaching.
-- **Sisterhood (Nun/Patron Lady)**: Spirit or Society; healing, persuasion, social influence.
+- **Clergy**: Spirit + Intellect/Society; blessings, preaching, conversion, church.
+- **Warrior Priest**: Spirit + Prowess; blessings, rebuke, protections
+- **Sisterhood, Nun**: Spirit; healing, prayer, blessings.
+- **Patron Lady**: Society; trade, persuasion, social influence.
 
 ## Gear & Burden
 - Categories: Heavy (II), Medium (III), Light (IIII).
 - Weapons and armor count as gear.
-- Overburden = -1DR or Armor Save penalty.
-- Donkey + cart can carry heavy loads.
-- Wear & Tear: Nat1/Nat20 can reduce DRs or armor saves.
-- Crafting/Repair: Difficulty = 12 + half DR total.
+- Overburden = -1DR or Armor Save penalty, GM may apply as a penalty die.
+- Donkey + cart can carry heavy loads, free for the Patron Lady.
+- Wear & Tear: Nat1 can add low to ammo or damaged to gear. Next would be depleted or destroyed. 
+- Crafting/Repair: Difficulty = 12, a success repairs depleted or damaged. Must have tools, time, materials.
 
 ---
 
