@@ -8,7 +8,7 @@
 | Savvy     | ___ |    | Society   | ___ |
  Inspired Die | ___ |
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
+| Prowess |  | Column 3 | Column 4 |
 |----------|----------|----------|----------|
 | Row 1   | Data     | Data     | Data     |
 | Row 2   | Data     | Data     | Data     |
