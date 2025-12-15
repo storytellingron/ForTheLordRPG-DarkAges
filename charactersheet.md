@@ -4,13 +4,14 @@
 
 ## Traits
 
-|  |  |  |  |  |  |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Prowess** |  | **Spirit** |  | **Inspired Die** |  |
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| **Prowess** |  | **Spirit** |  |
 | **Awareness** |  | **Intellect** |  |
 | **Savvy** |  | **Society** |  |
 
 
+### Inspired Die
 
 ### Faith Points
 | Spirit    | ___ | + Skill | ___ |
