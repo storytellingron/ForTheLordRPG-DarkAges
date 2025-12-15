@@ -6,10 +6,11 @@
 
 
 
-| Prowess |  | Spirit | ___ | Inspired Die | ___ |
+| Traits  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **Awareness** | ___ | **Intellect** | ___ |
-| **Savvy** | ___ | **Society** | ___ |
+| **Prowess** |  | **Spirit** |  | Inspired Die |  |
+| **Awareness** |  | **Intellect** |  |
+| **Savvy** |  | **Society** |  |
 
 
 
