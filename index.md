@@ -32,6 +32,7 @@ Check out the following pages:
 - [Rolling the Dice](#rolling-the-dice)
 - [Difficulty](#difficulty)
 - [Combat](#combat)
+- [Skill Examples](#skill-examples)
 
 
 
