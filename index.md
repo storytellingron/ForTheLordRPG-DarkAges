@@ -460,7 +460,7 @@ Vitality may then recover normally.
     - **Penalties** to the target’s future rolls.
     - **Escaping** bonus to move away, defense or counter strike.
 - If the defender wins a roll, they **escape** the grapple and negate its effects.
-- Each turn, both sides roll opposed grappling again, carrying over prior penalties as bonuses to the winner.
+- Each turn, both sides roll opposed grappling again, carrying over prior penalties or bonuses.
   
 ### Point Blank & Ambush
 
