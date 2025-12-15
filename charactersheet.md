@@ -7,7 +7,7 @@
 
 
 | Traits  |
-|:---:|
+|:---:|:---:|
 | **Prowess** |  | **Spirit** |  | **Inspired Die** |  |
 | **Awareness** |  | **Intellect** |  |
 | **Savvy** |  | **Society** |  |
