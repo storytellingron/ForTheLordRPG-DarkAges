@@ -606,7 +606,7 @@ See **Grappling** in the Combat section for details.
 - **Repair Armor:** Difficulty = 12, a success repairs one DR of damage. Must have time & tools.
 - **Time & Tools:** time would be one repair per long rest, specific tool kits for the category.
 
-## Power of Faith — Quick Rules
+## Power of Faith
 
 Faith Points fuel blessings and miracles.
 
