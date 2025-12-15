@@ -6,7 +6,7 @@
 
 
 
-| Prowess | ___ | Spirit | ___ | Inspired Die | ___ |
+| Prowess |  | Spirit | ___ | Inspired Die | ___ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **Awareness** | ___ | **Intellect** | ___ |
 | **Savvy** | ___ | **Society** | ___ |
