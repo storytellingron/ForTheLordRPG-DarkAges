@@ -687,7 +687,7 @@ Only one blessing can be done per turn. Only one helpful blessing per recipient 
 
 **Righteous Anger.** Using Duration only, this blessing lowers the Critical Roll threshold by 1 DR. The DR may be upgraded using Glory Points. The paladin must still hit the target’s normal Defense for the critical to take effect. This is not the same as a natural 20 automatic hit.
 
-**Warrior’s Sacrifice.** This blessing may only be used on oneself. Each die rank grants vitality and compels enemies to pursue and attack the paladin alone. Forgo Duration cost, the effect ends once the paladin has fallen or the enemy is vanquished.
+**Warrior’s Sacrifice.** This blessing may only be used on oneself. Each die rank grants vitality and compels enemies to pursue and attack the paladin alone. Forgo Duration cost, the effect ends once the paladin has fallen or the enemy is vanquished. This also condemns the enemy to violent means. Leaders may resist this temptation.
 
 ---
 
