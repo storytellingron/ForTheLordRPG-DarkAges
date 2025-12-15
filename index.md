@@ -284,12 +284,12 @@ This can be introduced after GMs and players get the hang of combat, rolling ski
 
 ---
 
-## DR Penalty
+## Penalty Dice
 
-Players and NPCs can gain **DR Penalty** for various reasons.  
+Players and NPCs can gain **Penalty Dice** as -DRs for various reasons.  
 They **do not** apply these penalties directly to their rolls.
 
-Instead, the **GM applies DR Penalty** to major factors like:
+Instead, the **GM applies Penalty Dice** to major factors like:
 
 - **Difficulty** (making a task harder)  
 - **Defense** (making a target harder to hit)
@@ -299,8 +299,8 @@ The GM rolls it separately and adds it to opposing rolls, defenses, or difficult
 The penalty DR is applied to **only one factor per turn**.  
 The GM may also forget or forgo using them.
 
-### Sources of DR Penalty  
-The following examples combine to form a character’s total **DR Penalty**:
+### Sources of Penalty  Dice  
+The following examples combine to form a character’s total **Penalty Dice**:
 
 - Temporary pains & stuns (not fatal)  
 - Temporary frustrations, failed rolls (not fatal)  
@@ -348,7 +348,7 @@ A **Grievous Wound** represents severe bodily harm. These wounds occur when:
 3. Any damage that gets through:
    - Reduces **Vitality/Vigor** as normal, and  
    - Is used to determine the wound’s severity:  
-     **Half of the damage taken = the Grievous Wound’s DR penalty.**
+     **Half of the damage taken = the Grievous Wound’s Penalty Dice.**
 
 This DR penalty represents the wound’s seriousness.
 
@@ -363,7 +363,7 @@ After determining the wound’s DR penalty, the target may:
 
 ### Effects of Grievous Wounds
 
-Grievous Wounds impose a **DR penalty** that affects:
+Grievous Wounds impose -DR **Penalty Dice** that affects:
 
 - Life Save rolls when at 0 Vitality
 - Penalties to one roll per turn. The GM picks one, rolls the Grievous Wound DR and adds it to the difficulty of that roll. He can choose other options, but only one per turn against the grievously wounded. He may forget or forgo it. The player never has to deal with the penalty in determining their own rolls.
@@ -605,6 +605,29 @@ See **Grappling** in the Combat section for details.
 - **Repair:** Difficulty = 12, a success repairs depleted or damaged. Must have time & tools.
 - **Repair Armor:** Difficulty = 12, a success repairs one DR of damage. Must have time & tools.
 - **Time & Tools:** time would be one repair per long rest, specific tool kits for the category.
+
+## Power of Faith — Quick Rules
+
+Faith Points fuel blessings and miracles.
+
+- Characters have **Faith for Each Encounter** and **Faith for the Day**.
+- • Faith for Each Encounter — used during combat, danger, spiritual conflict, or moments of tension. This pool refreshes between encounters.
+- • Faith for the Day — used during calm scenes, travel, roleplay, teaching, preaching, or preparation. This pool is more limited and not meant for repeated use in high danger.
+- Faith Points are spent when invoking a blessing.
+- Each Faith Point spent becomes **Die Ranks (DR)**.
+
+**Deliverance is always required.**  
+Deliverance determines **how strong** the blessing is. Faith Points spent on Deliverance convert directly into DRs that define the blessing’s effect.
+
+Additional Faith Points may be spent to shape the blessing:
+
+- **Deluge** — how many targets are affected  
+- **Duration** — how long the blessing lasts  
+- **Duress** — how hard the blessing is to resist  
+- **Distance** — how far away the target is  
+
+Blessings aiding allies are usually **free actions**.  
+Blessings used against opposition usually require an **action**.
 
 ---
 
