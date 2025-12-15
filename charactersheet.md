@@ -6,7 +6,7 @@
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| **Prowess** |  | **Spirit** |  |
+| **Prowess** |          | **Spirit** |  |
 | **Awareness** |  | **Intellect** |  |
 | **Savvy** |  | **Society** |  |
 
