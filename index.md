@@ -1225,8 +1225,8 @@ Conversion: Only if gravely wounded, healed, and shown compassion. May later gua
 
 ### Creature: _________________
 **Pro___, Awa___, Sav___, Spi___, Int___, Soc___**  
-**Def____, armor _______, Save ____, Vigor_____**  
-- **Attack name +____, ____DR, damage __________**  
+**Def____, armor_______, Save____, Vigor_____**  
+- **Attack name +____,____DR, damage__________**  
 **Ability +____ +____DR, Ability +____ +____DR**
 
 ---
