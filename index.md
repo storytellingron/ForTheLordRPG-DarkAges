@@ -610,8 +610,8 @@ See **Grappling** in the Combat section for details.
 Faith Points fuel blessings and miracles.
 
 - Characters have have two sets of Faith Points derived from Spirit + DR skill.
-   - **Faith for Each Encounter** — used during combat, danger, spiritual conflict, or moments of tension. This pool refreshes between encounters.
-   - **Faith for the Day** — used during calm scenes, travel, roleplay, teaching, preaching, or preparation. This pool is more limited and not meant for repeated use in high danger.
+   - **Faith for Each Encounter** — used during combat, danger, spiritual conflict, or moments of tension. This pool refreshes between encounters and can only be used then.
+   - **Faith for the Day** — used during calm scenes, travel, roleplay, teaching, preaching, or preparation. This pool may be spent for encounters out of desperation but is meant for daily or session use. A GM may only allow these faith points as the total for a resting or church session. It may be for the day, a game session, or a period of time, based on GM's descretion.
 - Faith Points are spent when invoking a blessing.
 - Each Faith Point spent becomes **Die Ranks (DR)**.
 
@@ -688,6 +688,119 @@ Only one blessing can be done per turn. Only one helpful blessing per recipient 
 **Righteous Anger.** Using Duration only, this blessing lowers the Critical Roll threshold by 1 DR. The DR may be upgraded using Glory Points. The paladin must still hit the target’s normal Defense for the critical to take effect. This is not the same as a natural 20 automatic hit.
 
 **Warrior’s Sacrifice.** This blessing may only be used on oneself. Each die rank grants vitality and compels enemies to pursue and attack the paladin alone. Forgo Duration cost, the effect ends once the paladin has fallen or the enemy is vanquished. This also condemns the enemy to violent means. Leaders may resist this temptation.
+
+
+## Glory Points
+
+**Glory Points (GP)** represent long-term growth earned through faithful action, service, sacrifice, and participation. They are the primary method of character improvement.
+
+---
+
+### Gaining Glory Points
+
+Glory Points are typically gained at a rate of **1 GP per meaningful accomplishment**. Common ways to gain 1 GP include:
+
+- Showing up to play
+- Converting non-believers
+- Defeating or bringing about the surrender of a stronger foe
+- Uncovering a pagan plot
+- Defeating, exposing, or stopping that plot
+- Establishing a church
+- Spending time serving at a church (building, mediating, training, teaching)
+- Giving large sums to a church
+- GM awards for miraculous, exceptional, or story-significant reasons
+
+This list is illustrative, not exhaustive. The GM has final discretion.
+
+---
+
+### Tracking Glory Points
+
+Players keep a **running total** of Glory Points, tracking both **total earned** and **unspent** points.
+
+**Example:**  
+Glory Points (Total / Unspent): **30 / 2**
+
+Unspent Glory Points may be saved indefinitely.
+
+---
+
+### When Glory Points Are Spent
+
+Glory Points are generally spent **between missions**, during periods of rest, service, and reflection—most often while staying at a church (new or old).
+
+During this time, characters may train, study, pray, and serve, then describe how their Glory Points are spent on upgrades.
+
+---
+
+## Spending Glory Points
+
+Nearly anything that uses **Die Ranks (DR)** may be upgraded using Glory Points.
+
+### General Rule for DR Upgrades
+
+For most upgrades:
+
+- **Cost = the Die Rank being gained**
+
+**Examples:**
+- Sewing DR 3 costs **3 GP**
+- Sword To-Hit DR 3 costs **3 GP**
+
+---
+
+### Trait Advancement (Special Rule)
+
+Traits use a unique and more expensive cost formula.
+
+- **Cost = old Trait rating + new Trait rating**
+- Minimum cost is **1 GP**
+
+**Example:**  
+Trait +3 → +4 costs **7 GP**
+
+**Trait limits:**
+- Trait **5** is the normal maximum
+- Advancing above 5 requires GM approval
+- Increasing a Trait above 5 also requires permanently reducing another Trait by **–1**
+
+---
+
+### Skills
+
+- There is no hard limit on the types of skills a character may have
+- Skills grant a **DR bonus** when used
+- Skills are associated with a Trait based on GM and player agreement
+- Adding or improving a skill follows the normal DR upgrade rule
+
+---
+
+### Vitality
+
+Starting Vitality:
+- **Men:** Prowess + 6 + d6
+- **Women:** Prowess + 4 + d4
+
+**Vitality upgrades:**
+- Divide current total Vitality by **4**
+- Round down to determine the **GP cost**
+- Each upgrade grants:
+  - **+d6 Vitality** for men
+  - **+d4 Vitality** for women
+
+---
+
+### Faith Points
+
+Faith Points are improved by adding Die Ranks to **Spirit** for Faith use.
+
+- Each upgrade adds a **DR bonus** to Spirit
+- This bonus applies to:
+  - **Faith for Each Encounter**
+  - **Faith for the Day**
+
+Faith Point upgrades follow the normal DR cost rule.
+
 
 ---
 
