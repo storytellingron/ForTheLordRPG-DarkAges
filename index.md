@@ -1121,30 +1121,15 @@ A skill devised organically during play. Its exact function is undefined and dis
 ---
 
 ## Donkey Pal
-
 A loyal beast of burden and companion.
 
-- **Prowess:** 1  
-- **Awareness:** 2  
-- **Savvy:** –2  
-- **Spirit:** 3  
-- **Intellect:** 1  
-- **Society:** 2  
-- **Defense:** 14  
-- **Armor:** Fur / Hide  
-- **Armor Save:** 1  
-- **Vigor:** 8  
-
-**Attacks**
-- **Front Kick:** +1 To-Hit, d4 damage, Tumble 4
-- **Back Kick:** +1 To-Hit, d6 damage, Tumble 4 (free action if flanked)
-
-**Abilities**
-- **Annoy:** +2, +1 DR
-- **Protect:** +3, +1 DR
-- **Chew Straps:** +1, +1 DR
-- **Stubborn:** +3, +1 DR
-
+### Example Creature: Donkey Pal
+**Donkey Pal, loyal beast of burden**
+**Pro1, Awa2, Sav-2, Spi3, Int1, Soc2**
+**Def14, fur/hide, Save 1, Vigor 8**
+- **Front Kick +1, d4 damage, Tumble4**
+- **Back Kick +1, d6 damage, Tumble4, free action if flanked**
+**Annoy +2 +1DR, Protect +3 +1DR, Chew Straps +1 +1DR, Stubborn +3 +1DR**
 
 ---
 
@@ -1231,6 +1216,18 @@ A comma-separated list of passive abilities, reactions, or situational traits.
 - **Gladius +5 +1DR, d10 damage, bleed6, parry+2**
 - **Parry+7 +3DR**
 Conversion: Only if gravely wounded, healed, and shown compassion. May later guard a church.
+
+## One Line Creature Template
+
+**Name/Role — Pro_, Awa_, Sav_, Spi_, Int_, Soc_ | Def_, armor _, Save _, Vigor_ | Attack+_, d_, special | Traits+_+_DR**
+
+## Quick Fill Creature Template
+
+### Creature: __________
+**Pro_, Awa_, Sav_, Spi_, Int_, Soc_**
+**Def_, armor _______, Save _, Vigor_**
+- **Attack name +_, d_ damage, __________**
+**Ability +_ +_DR, Ability +_ +_DR**
 
 ---
 
