@@ -1211,8 +1211,11 @@ A comma-separated list of passive abilities, reactions, or situational traits.
 
 ### Example Creature: Old Gladiator
 **Athgunert, former gladiator**
+
 **Pro5, Awa4, Sav-1, Spi2, Int0, Soc3**
+
 **Def19, leathers, Save d6, Vigor 22**
+
 - **Gladius +5 +1DR, d10 damage, bleed6, parry+2**
 - **Parry+7 +3DR**
 Conversion: Only if gravely wounded, healed, and shown compassion. May later guard a church.
@@ -1224,12 +1227,12 @@ Conversion: Only if gravely wounded, healed, and shown compassion. May later gua
 ## Quick Fill Creature Template
 
 ### Creature: _________________
-**Pro__, Awa__, Sav__, Spi__, Int__, Soc__**
+**Pro___, Awa___, Sav___, Spi___, Int___, Soc___**
 
-**Def___, armor _______, Save ___, Vigor___**
-- **Attack name +___, d___ damage, __________**
+**Def____, armor _______, Save ____, Vigor_____**
+- **Attack name +____, ____DR, damage __________**
 
-**Ability +___ +___DR, Ability +___ +___DR**
+**Ability +____ +____DR, Ability +____ +____DR**
 
 ---
 
