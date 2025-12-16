@@ -1210,12 +1210,9 @@ A comma-separated list of passive abilities, reactions, or situational traits.
 ---
 
 ### Example Creature: Old Gladiator
-**Athgunert, former gladiator**
-
-**Pro5, Awa4, Sav-1, Spi2, Int0, Soc3**
-
-**Def19, leathers, Save d6, Vigor 22**
-
+**Athgunert, former gladiator**  
+**Pro5, Awa4, Sav-1, Spi2, Int0, Soc3**  
+**Def19, leathers, Save d6, Vigor 22**  
 - **Gladius +5 +1DR, d10 damage, bleed6, parry+2**
 - **Parry+7 +3DR**
 Conversion: Only if gravely wounded, healed, and shown compassion. May later guard a church.
