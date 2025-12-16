@@ -801,6 +801,350 @@ Faith Points are improved by adding Die Ranks to **Spirit** for Faith use.
 
 Faith Point upgrades follow the normal DR cost rule.
 
+---
+
+## Character Classes
+
+---
+
+## Holy Warrior Calling
+
+Holy Warriors are martial servants of the faith, trained in weapons, armor, and disciplined combat. These abilities and upgrades are most commonly associated with Holy Warriors, but many may be learned or used by other callings through training, skills, or Glory Point investment.
+
+---
+
+### Weapon Upgrades
+
+Weapon upgrades apply to a **specific weapon type**.
+
+**Weapon To-Hit**
+- **Melee:** Uses **Prowess**
+- **Ranged:** Uses **Awareness**
+- Add DRs as a skill to that weapon type
+
+**Weapon Damage**
+- Damage DR is upgraded per weapon type:
+  - DR 1 = d4
+  - DR 2 = d6
+  - DR 3 = d8
+  - DR 4 = d10
+  - DR 5 = d12
+- Damage DR may form a Dice Pool that keeps the highest result
+
+**Weapon Upgrade Notes**
+- Weapon upgrades may combine skill and gear improvements
+- Track upgrades per individual weapon
+- If a weapon is destroyed, only that weapon’s upgrades are lost, not the skill. It can be transferred to a like weapon.
+- Glory Point cost is based on the **total DRs of the weapon**, not separated by skill or gear
+- Do not divide upgrades to reduce Glory Point cost
+
+---
+
+### Armor Save
+
+Armor Save improvements reflect continual refitting and adjustment.
+
+- Armor Save increases as DRs
+- Applies only to a **specific suit of armor**
+- If the armor is destroyed, upgrades do not transfer
+- Armor is hand-made and considered unique
+
+---
+
+### Combat Skills
+
+**Shield Work (Prowess)**  
+A character may use a shield as a DRR for Defense instead of the default +2. Any unused DRs may be shifted into offense as a shield-bash attack (treated as a club).
+
+**Two Weapons (Prowess / Awareness)**  
+Still counts as **one attack**. Each weapon must be upgraded separately. Only light or medium weapons may be used. Combine DRs for a single attack. On a hit, choose which weapon’s damage applies, or use one weapon to parry. Its success adds to the other weapon’s attack and damage. This is an advanced skill and should only be used when well understood.
+
+**Weapon Damage from Prowess**  
+Adds +1 damage per point of Prowess (up to current Prowess). Melee only. Glory Point cost equals the number of points gained.
+
+**Perseverance (Second Wind)**  
+A character may spend a DR to heal themselves, using both a maneuver and an action. This ability may be used multiple times per combat, up to the character’s Prowess in DRs.
+
+---
+
+## Mercenary Calling
+
+Mercenaries specialize in movement, positioning, opportunism, and survival in chaotic combat. These maneuver skills are most often associated with mercenaries, scouts, and hardened fighters, but many may be learned or used by other callings through training, skills, or Glory Point investment.
+
+---
+
+### Maneuver Skills
+
+**Aim (Awareness)**  
+Everyone gets the first 1DR for free, but it can be upgraded with GPs. It takes up the entire manuever, so one cannot use if one has moved. Aim does not generate a DRR; it applies directly to the proceeding ranged attack roll.
+
+**Charge (Prowess)**  
+If there is sufficient space—most commonly on the first round of combat—a character may charge using their Prowess bonus only. If successful, the DRR gained against the target’s Defense may be split between To-Hit and Damage. If the charger is successfully struck before completing the attack (such as by arrows or spears), the charge is negated. Order of attacks is still resolved normally. A natural 1 fumble results in **two fumble roll results**.
+
+**Dodge (Awareness)**  
+The character rolls this skill against Difficulty 12 and the attacker’s Armor Save. The resulting DRR may be added to Defense against known attacks.
+
+**Grraggh!!**  
+Each DR reduces one grievous wound DR that the character would receive in combat. This ability may be used **once per encounter**. Vitality damage still applies normally.
+
+**Guard (Prowess)**  
+Each DR adds to a Prowess vs Prowess roll-off. If successful, the character intercepts an attack intended for the guarded ally. The difference, as a DRR, may be added to the defender’s Defense.
+
+---
+
+### Advanced Maneuver Skills
+
+**Parry (Prowess / Awareness)**  
+May be rolled against one melee attack. If the roll exceeds the attacker’s roll, the strike is canceled and the DRR may be added to the character’s next To-Hit roll. If the parry fails, the character may still attack later in the round, but if struck, they lose their attack. Certain weapons may grant bonuses to this roll.
+
+**Seek Cover (Awareness)**  
+A full defensive maneuver similar to Dodge, but gains additional DRs based on available cover. The result is added to Defense as DRs in a Dice Pool. This skill uses both maneuver and action. If the roll is high, the result may be kept each round, re-rolled, or the entire skill may be re-rolled on the next turn.
+
+**Sneak Attack**  
+Grants DRs that may be applied to either To-Hit or Damage when attacking from surprise or from a flank. This may be used only while the target is unaware, surprised, or engaged and unaware of the flanker, at the GM’s discretion.
+
+---
+
+## Scout Calling
+
+Scouts specialize in awareness, movement, survival, and reading the land. These skills are most commonly associated with scouts, hunters, and pathfinders, but many may be learned or used by other callings through training, skills, or Glory Point investment.
+
+---
+
+### Field & Survival Skills
+
+**Boatswain (Savvy)**  
+Handling, maintenance, and care of boats, rafts, and river barges.
+
+**Leather Repair (Savvy)**  
+Repairing leather and brigandine armor (metal plates sewn into leather). By rolling for a DRR, the character may remove DR wear and tear from leather-based gear and armor. Basic leather tools are required. Difficulty is **12 + existing wear and tear penalty**.
+
+**Hunting (Awareness)**  
+Adds DRs to tracking, scouting, and perception related specifically to hunting.
+
+**Foraging (Awareness)**  
+Adds DRs to tracking, surveying, and perception related to gathering edible or useful flora.
+
+**Camping / Nature (Awareness)**  
+Adds DRs to surveying, perception, and trap detection when selecting, setting up, or evaluating campsites, or when scouting discovered sites.
+
+---
+
+### Scouting & Awareness Skills
+
+**Tracking (Awareness)**  
+Each DRR provides a clue or new piece of information about tracks, disturbed ground, tactile signs, or items left behind.
+
+**Surveying / Scouting (Awareness)**  
+Each DRR provides pertinent information about terrain, landmarks, or features across the land. Requires appropriate position or vantage, whether near or distant. This skill focuses on the broader environment rather than tracks.
+
+**Perception (Awareness / Intellect / Savvy)**  
+Each DRR reveals notable information unrelated to tracks or past activity. This focuses on recognizing important features, objects, or arrangements that indicate what is currently happening or normally occurs in an area.
+
+**Detect Traps (Savvy)**  
+Used to locate and understand traps. DRRs may be spent to avoid, trigger safely, disable, reset, modify, or repurpose traps.
+
+---
+
+## Clergy Calling
+
+Clergy focus on spiritual authority, prayer, guidance, and confronting evil through faith rather than arms. These upgrades and skills are most commonly associated with clergy, priests, and ministers, but many may be learned or used by other callings through training, blessings, or Glory Point investment.
+
+---
+
+### Blessing Upgrades
+
+**Faith Points (Spirit)**  
+Faith Points are gained as DRs for each intense encounter and for each new day (a long period of rest or peace). When used, Faith DRs are **added together** rather than keeping the highest die.
+
+**Gain a New Blessing**  
+Gaining a new Blessing costs Glory Points equal to the total number of Blessings the character will have after gaining it. Blessings are generally gained between missions during rest, prayer, or meditation, often at a church or monastery. Roleplaying this process is encouraged.
+
+**Courage / Resist Fear (Spirit)**  
+Adds DRs to resist fear, curses, and magical or spiritual effects. Particularly useful when confronting dark magic, unholy forces, or possession.
+
+**Comprehending Evil (Spirit)**  
+Allows the character to detect evil influences, curses, or possession, and to gain insight into their powers and intent. Grants bonuses to interrogation and discernment involving evil entities.
+
+---
+
+### Clergy Skills
+
+**Praying (Spirit)**  
+Rolled against Difficulty 12 in peaceful settings such as a campsite. Additional DRs may apply for group prayer, aid, psalm books, prayer items, church settings, and comforts. The resulting DRR converts into **Inspired Dice**, which may be split among the group.
+
+**Preaching (Spirit)**  
+Used to convert or persuade the calm and receptive. A DRR may raise a target’s conversion level. Failure may reduce progress or cause complications.
+
+**Rebuking (Spirit)**  
+Used to pacify the violent by reducing them to 0 Vigor. Rebuking directly lowers Vigor using the Dice Pool total. Minions generally cannot resist; elite or powerful foes may attempt to do so.
+
+**Consoling (Spirit)**  
+Strengthens the faithful by granting a DRR that may be used for a single resist against a specific spiritual or mental adversity. This skill may also be used to gather information from those in distress.
+
+
+---
+## Sisterhood Calling
+
+The Sisterhood represents nuns and sisters devoted to care, faith, courage, and subtle influence. While most closely associated with women of the Church, many of these abilities may be learned or used by others through training, blessings, or Glory Point investment.
+
+---
+
+### Starting Traits
+
+- **Spirit-focused**
+- **Vitality:** 3 + Prowess + d4
+- **Blessings:** Start with 3 Blessings
+- May use a **pan** as an improvised weapon
+  - Adds **+1 Defense** when parrying
+- Choose **one Woman’s Touch ability** at +1 DR
+
+---
+
+### Sisterhood Upgrades
+
+- **Spirit and Blessing upgrades** are essential
+- **Woman’s Touch abilities** are essential and upgradeable
+- **Pan upgrades** may improve:
+  - To-Hit
+  - Damage
+  - Advanced use with Parry and Dodge
+- **Miracle of Healing** is a special Blessing
+  - Skills and other factors may add to the roll
+  - Used to negate grievous wounds
+
+---
+
+### Very Helpful Aid
+
+A specialized Aid skill using the most appropriate Trait. The resulting DRR grants DRs to the aided character. The helper must possess basic knowledge relevant to the task.
+
+---
+
+## Woman’s Touch
+
+Woman’s Touch abilities are unique skills that resolve using **Die Rank Results (DRR)**. When used by a woman, they gain an **additional d4 die**. These abilities generally affect men and may be upgraded using Glory Points.
+
+---
+
+### Woman’s Touch Abilities (DRR)
+
+**Cleaning (Savvy)**  
+Keen awareness of filth, order, and comfort. Helps create restorative environments during rests and improves churches or homes.
+
+**Details & Comeliness (Intellect)**  
+Enhances appearance and presentation. Adds DRs to social interactions in appropriate settings and events.
+
+**Distraction — Subtle (Social)**  
+Subtly diverts attention through behavior or presence, usually targeting specific or observant men in civil settings. Used to avoid suspicion or redirect focus without drawing notice.
+
+**Mothering (Savvy)**  
+Provides care, comfort, and support during rests. Grants DRs to rest and healing efforts.
+
+---
+
+### Maneuver & Action Woman’s Touch Abilities
+
+**Feigning — Overt (Social)**  
+Draws attention or defuses hostility through overt distress (such as fainting). Others focus on the character or assume she is not a threat.
+
+**Pans & More (Spirit)**  
+Allows use of a pan or found objects defensively as a free action. Adds DRs to Defense for oneself and anyone clinging to them.
+
+**Save Me! (Social)**  
+Grants a nearby male ally a free maneuver and action to intercede, adding DRs to a Prowess-based roll. May be used **once per encounter**.
+
+---
+
+## Ladyship Calling
+
+Ladyship represents patron ladies, benefactors, and noblewomen whose influence, resources, and wit shape events as surely as steel. These abilities are most common among patron ladies, but many may be learned or used by others through circumstance, training, or Glory Point investment.
+
+---
+
+### Starting Traits
+
+- **Primary Traits:** Society, Intellect, Awareness, Savvy
+- **Vitality:** 3 + Prowess + d4
+- May use a **dagger** and **light crossbow**
+- Begins with a **donkey and cart**
+- May carry any reasonable gear with **lax burden rules**
+- Choose **two Woman’s Touch abilities** at +1 DR each
+
+---
+
+### Social & Influence Skills
+
+**Persuasion (Society)**  
+Rolled against another character’s Social roll to convince them of a course of action or belief.
+
+**Trade (Society)**  
+Resolved as a roll-off to finalize deals, lower costs, or improve terms. Circumstances, goods, and leverage may grant DRs.
+
+**Wit (Society)**  
+Used to influence, disarm, or outmaneuver upper-class figures, skeptics, or mockers through clever argument and repartee.
+
+**Performance (Society)**  
+Must be specified (instrument, poetry, dance, singing, etc.). Singing psalms may use this skill and can strongly affect morale or conversion.
+
+**Legacy (Intellect / Society)**  
+Represents lineage, profession, land ownership, or business interests. Grants insight, access, or bonuses when relevant to a mission.
+
+---
+
+### Practical Skills
+
+**Handling (Intellect)**  
+Used primarily for managing donkeys and beasts of burden, including training for simple tasks or specialized behaviors.
+
+**Crossbow & Dagger (Awareness)**  
+Improves To-Hit, Damage, and quality of use with daggers and light crossbows. Often essential for personal survival.
+
+---
+
+### Gear & Wealth
+
+**Fancy Gear**  
+May gain +1 DR upgrades to crossbows, bolts, daggers, or similar items. Patron ladies may exert narrative pressure to acquire fine equipment.
+
+**Luxury Items**  
+Candles, perfumes, dresses, jewelry, and similar items should be noted on the character sheet. These may affect trade, persuasion, bribery, and social influence, at the GM’s discretion.
+
+---
+
+### Woman’s Intuition
+
+**Woman’s Intuition**  
+A skill devised organically during play. Its exact function is undefined and discovered through use.  
+*“I do not know what it does or how it works. But here it is.”* — Storytelling Ron
+
+---
+
+## Donkey Pal
+
+A loyal beast of burden and companion.
+
+- **Prowess:** 1  
+- **Awareness:** 2  
+- **Savvy:** –2  
+- **Spirit:** 3  
+- **Intellect:** 1  
+- **Society:** 2  
+- **Defense:** 14  
+- **Armor:** Fur / Hide  
+- **Armor Save:** 1  
+- **Vigor:** 8  
+
+**Attacks**
+- **Front Kick:** +1 To-Hit, d4 damage, Tumble 4
+- **Back Kick:** +1 To-Hit, d6 damage, Tumble 4 (free action if flanked)
+
+**Abilities**
+- **Annoy:** +2, +1 DR
+- **Protect:** +3, +1 DR
+- **Chew Straps:** +1, +1 DR
+- **Stubborn:** +3, +1 DR
+
 
 ---
 
@@ -844,15 +1188,49 @@ Faith Point upgrades follow the normal DR cost rule.
 - Many can be converted or calmed through Spirit, preaching, or compassion.
 - GM discretion: some foes resist conversion unless gravely wounded or shown mercy.
 
-## Example Creature: Old Gladiator
-- **Name**: Athgunert, former gladiator
-- **Traits**: Pro5, Awa4, Sav-1, Spi2, Int0, Soc3
-- **Defense**: 19 + shield + helm
-- **Armor Save**: d6 (leathers)
-- **Vigor**: 22
-- **Weapons**: Gladius +5 +1DR, d10 damage, bleed6, parry+2
-- **Skills**: Parry+7 +3DR
-- **Conversion**: Only if gravely wounded, healed, and shown compassion. May later guard a church.
+## NPC & Creature Stat Block Format
+
+Non-player characters, creatures, and animals use a compact, line-based stat block. Each line has a specific purpose and is always presented in the same order.
+
+---
+
+### Stat Block Structure
+
+**Line 1 — Name or Role**  
+The creature’s name, title, or narrative role.
+
+**Line 2 — Core Traits**  
+A comma-separated list of abbreviated Traits with modifiers.
+- Pro (Prowess), Awa (Awareness), Sav (Savvy), Spi (Spirit), Int (Intellect), Soc (Society)
+- Modifiers may be positive or negative.
+
+**Line 3 — Defense & Survival**  
+Lists core defensive values and durability.
+- Defense (Def)
+- Armor type (descriptive)
+- Armor Save (Save)
+- Vigor (NPC vitality)
+
+**Line 4+ — Attacks**  
+Each attack is listed on its own line, prefixed with a dash (`-`).
+- Attack Name
+- To-Hit bonus
+- Damage die
+- Special rules or conditions
+
+**Final Line — Abilities & Traits**  
+A comma-separated list of passive abilities, reactions, or situational traits.
+- Abilities list bonuses and Die Rank modifiers where applicable.
+
+---
+
+### Example Creature: Old Gladiator
+**Athgunert, former gladiator**
+**Pro5, Awa4, Sav-1, Spi2, Int0, Soc3**
+**Def19, leathers, Save d6, Vigor 22**
+- **Gladius +5 +1DR, d10 damage, bleed6, parry+2**
+- **Parry+7 +3DR**
+Conversion: Only if gravely wounded, healed, and shown compassion. May later guard a church.
 
 ---
 
