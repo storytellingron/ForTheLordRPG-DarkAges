@@ -1219,15 +1219,15 @@ Conversion: Only if gravely wounded, healed, and shown compassion. May later gua
 
 ## One Line Creature Template
 
-**Name/Role: Pro_, Awa_, Sav_, Spi_, Int_, Soc_ | Def__, *armor*, Save___, Vigor___ | Attack____+____DR, damage____ | Skill___+___DR**
+**Name/Role: Pro_, Awa_, Sav_, Spi_, Int_, Soc_ | Def__, *armor*, Save___, Vigor___ | Attack_______, damage_____ | Skill______**
 
 ## Quick Fill Creature Template
 
 ### Creature: _________________
 **Pro___, Awa___, Sav___, Spi___, Int___, Soc___**  
-**Def____, *armor*_______, Save____, Vigor_____**  
-- **Attack name +____,____DR, damage__________**  
-**Ability +____ +____DR, Ability +____ +____DR**
+**Def____, *armor*, Save____, Vigor_____**  
+- **Attack________, damage__________**  
+**Ability________, Ability________**
 
 ---
 
