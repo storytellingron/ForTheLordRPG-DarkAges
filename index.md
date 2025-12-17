@@ -580,6 +580,16 @@ See **Grappling** in the Combat section for details.
 - [Blessings of the Clergy](#blessings-of-the-clergy)
 - [Blessings of the Sisterhood](#blessings-of-the-sisterhood)
 - [Blessings of the Paladin](#blessings-of-the-paladin)
+- [Glory Points](#glory-points)
+- [Spending Glory Points](#spending-glory-points)
+- [Character Classes](#character-classes)
+  - [Holy Warrior Calling](#holy-warrior-calling)
+  - [Mercenary Calling](#mercenary-calling)
+  - [Scout Calling](#scout-calling)
+  - [Clergy Calling](#clergy-calling)
+  - [Sisterhood Calling](#sisterhood-calling)
+  - [Woman’s Touch](#womans-touch)
+  - [Ladyship Calling](#ladyship-calling)
 
 
 
