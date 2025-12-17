@@ -572,6 +572,17 @@ See **Grappling** in the Combat section for details.
 
 # Character Creation
 
+- [Making a Missionary](#making-a-missionary)
+- [Traits](#traits)
+- [Callings](#callings)
+- [Gear & Burden](#gear--burden)
+- [Power of Faith](#power-of-faith)
+- [Blessings of the Clergy](#blessings-of-the-clergy)
+- [Blessings of the Sisterhood](#blessings-of-the-sisterhood)
+- [Blessings of the Paladin](#blessings-of-the-paladin)
+
+
+
 ## Making a Missionary
 - Assign +3, +2, +1, 0, -1, -2 across six Traits.
 - Place highest values in Traits that fit the calling.
