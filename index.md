@@ -1069,7 +1069,7 @@ Ladyship represents patron ladies, benefactors, and noblewomen whose influence, 
 - May use a **dagger** and **light crossbow**
 - Begins with a **donkey and cart**
 - May carry any reasonable gear with **lax burden rules**
-- Choose **two Woman’s Touch abilities** at +1 DR each
+- Choose **two Woman’s Touch abilities** at +1 DR each, see Sisterhood section
 
 ---
 
@@ -1217,7 +1217,7 @@ A comma-separated list of passive abilities, reactions, or situational traits.
 - **Parry+7 +3DR**
 Conversion: Only if gravely wounded, healed, and shown compassion. May later guard a church.
 
-## One Line Creature Template
+## One-Line Creature Template
 
 **Name/Role: Pro_, Awa_, Sav_, Spi_, Int_, Soc_ | Def__, *armor*, Save___, Vigor___ | Attack_______, damage_____ | Skill______**
 
@@ -1227,7 +1227,8 @@ Conversion: Only if gravely wounded, healed, and shown compassion. May later gua
 **Pro___, Awa___, Sav___, Spi___, Int___, Soc___**  
 **Def____, *armor*, Save____, Vigor_____**  
 - **Attack________, damage__________**  
-**Ability________, Ability________**
+**Abilities: __________, __________**
+
 
 ---
 
