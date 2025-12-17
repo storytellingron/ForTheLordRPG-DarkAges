@@ -1143,14 +1143,220 @@ A skill devised organically during play. Its exact function is undefined and dis
 
 ## Donkey Pal
 A loyal beast of burden and companion.
-
-### Example Creature: Donkey Pal
-**Donkey Pal, loyal beast of burden**
 **Pro1, Awa2, Sav-2, Spi3, Int1, Soc2**
 **Def14, fur/hide, Save 1, Vigor 8**
 - **Front Kick +1, d4 damage, Tumble4**
 - **Back Kick +1, d6 damage, Tumble4, free action if flanked**
 **Annoy +2 +1DR, Protect +3 +1DR, Chew Straps +1 +1DR, Stubborn +3 +1DR**
+
+## Gear & Burden
+
+### Weapons
+
+| Weapon            | Damage | Burden | Range        | Style (Advanced Play) |
+|-------------------|--------|--------|--------------|-----------------------|
+| Dagger, Knife     | d4     | Light  | Melee / Nigh | Lethal4, Bleed4, Awa  |
+| Sword             | d6     | Light  | Melee        | Parry+2, Bleed6       |
+| Greatsword        | d10    | Medium | Melee        | 2H, Parry+1, Bleed6   |
+| Pan               | d4     | In Gear| Melee        | Pan, Blunt            |
+| Club / Staff      | d4/d6  | Light  | Melee        | 1–2H, Parry (2H), Blunt |
+| Shield Bash       | d4     | —      | Melee        | Blunt                 |
+| Hammer / Mace     | d8     | Medium | Melee        | Crushing, Parry       |
+| Warhammer         | d12    | Heavy  | Melee        | 2H, Crushing, Slow    |
+| Axe               | d8     | Medium | Melee / Nigh | Pull, Bleed8          |
+| Battleaxe         | d10    | Heavy  | Melee        | Pull, 2H, Crushing, Bleed8 |
+| Spear             | d6/d8  | Medium | Melee / There| 1–2H, Parry (2H), Reach, Bleed6 |
+| Bow               | d6     | Medium | Far          | 2H, Lethal6           |
+| Light Crossbow    | d4     | Light  | Far          | Lethal4, Reload       |
+
+### Weapon Styles (Advanced Play)
+
+- **1–2H** — Weapon may be used one- or two-handed; damage differs.
+- **2H** — Requires two hands to use.
+- **Bleed#** — If damage equal to or greater than # gets through armor, target loses 1 Vitality per turn until treated.
+- **Blunt / Stun** — May choose to inflict a stun instead of a grievous wound; applies an equal DR penalty until rest.
+- **Crushing** — Scores a critical on a natural 19 or 20. No skill modifiers apply.
+- **Lethal#** — If damage equal to or greater than # gets through armor, inflicts a 1DR grievous wound.
+- **Pan** — May parry +1 even against projectiles; acts as a small shield (+1 Defense).
+- **Parry** — May shift Prowess to Defense against one visible melee attack, or use Parry skill.
+- **Pull** — On a successful hit, the target’s shield is ineffective for their next turn only.
+- **Reach** — May attack through adjacent allies or into water without penalty; usually acts first.
+- **Reload** — Requires a maneuver to reload. If pre-loaded, may fire first. Cannot reload if engaged in melee or suppressed (optional).
+- **Slow** — Typically acts last in the round.
+- **Awa** — Weapon may use Awareness bonus instead of Prowess.
+
+
+### Defense & Armor Saves
+
+| Armor Type      | Armor Save | Burden | Style / Notes |
+|-----------------|------------|--------|---------------|
+| Plated Mail     | d10        | Heavy  | No stealth, hiding, etc. |
+| Brigandine      | d8         | Heavy  | No stealth, hiding, etc. |
+| Chainmail       | d6         | Medium | — |
+| Hard Leather    | d4         | Medium | — |
+| Soft Leather    | d2         | Light  | — |
+| Furs / Cloth    | 1          | Light  | — |
+| Shield          | —          | Heavy  | +2 Defense, Sacrifice |
+| Great Helm      | —          | Medium | +2 Defense, Sacrifice, no stealth |
+| Helm            | —          | Light  | +1 Defense |
+
+### Armor Rules
+
+- **Defense** starts at **12**, modified by:
+  - Awareness
+  - Shields
+  - Helms
+
+- **Armor Save** reduces damage **after a successful hit**.
+  - Roll the Armor Save die.
+  - Subtract the result from the incoming damage.
+  - If the damage die is **equal to or higher than** the Armor Save die, at least **1 Vitality damage** is still suffered.
+
+- **Sacrifice:**  
+  Items with *Sacrifice* may be destroyed to absorb a grievous wound just incurred.
+  - The item is destroyed
+  - Vitality damage still applies
+
+- **Fumbles:**  
+  Heavier armor may drain additional Vitality on a fumble.
+  - See the Foible / Fumble table
+
+- **Treacherous Terrain:**  
+  In difficult conditions (mud, ice, rubble, water, etc.), the **Armor Save** also acts as a **penalty**.
+  - The GM may roll the Armor Save die
+  - Add the result to Difficulty numbers for movement or maneuvering
+
+## Starting Gear & Rules
+
+### Light Gear
+- **Thief Tools** — Savvy tasks, locks, traps  
+- **Scrivener’s Set** — writing, records, Intellect tasks  
+- **Sewing Kit** — clothing repair, small crafting  
+- **Torch Kit (sap, wrappings)** — quick light  
+- **Sack of Salt** — cooking, preservation  
+- **Fancy Pastry** — morale, persuasion  
+- **Tasty Sausage** — food, cooking, morale
+  
+### Medium Gear
+- **Lantern & Oil** — vision in darkness  
+- **Perfume / Charm Kit** — social influence  
+- **Healing & Medicine Kit** — medical care  
+- **Butcher & Leather Tools** — food prep, leather repair  
+- **Rope (50 ft.)** — climbing, hauling, securing  
+- **Quiver** — required for archery (arrows are free)  
+- **Blanket** — resting comfort
+  
+### Heavy Gear
+- **Climbing & Traversing Gear** — careful movement, reaching difficult places  
+- **Camping Gear** — resting well in the wild  
+- **Cooking Gear** — preparing meals during rests  
+- **Smithing Tools** — metal repair and basic forging  
+- **Rations & Water (1 week, party)** — sustenance  
+- **Animal Feed (1 week)** — required for beasts of burden  
+- **Barrel of Peasant Wine** — morale, trade, or fellowship
+
+### Beasts of Burden
+- **Donkey** — may carry up to **6 Heavy items**
+- **Donkey with Small Cart** — may carry whatever reasonably fits
+- Patron Ladies begin with a donkey and cart
+- Other characters may only acquire beasts of burden during play
+
+## Repair, Crafting, & Burden
+
+### Repairs
+
+- **Basic gear & minor repairs:** Difficulty **12**
+- **Fancy gear or major repairs:** Difficulty **12 + damage DR**
+- On a **success**, the item is repaired
+- On a **close failure**, the item may suffer additional damage
+- On a **significant failure**, the item may be destroyed
+
+---
+
+### Crafting
+
+- Determine Difficulty as **12 + item factors**
+  - To-Hit DRs
+  - Damage DRs
+  - Lightening or special qualities
+- Medieval crafting uses **half the total DR die** (rounded down)
+
+**Example:**  
+A d10 damage axe counts as **5 DR**, so Difficulty = **12 + 5 = 17**
+
+- Proper **tools and workspace** are required
+
+---
+
+### Gear & Burden Rules
+
+- Characters may carry:
+  - **Heavy ×2**
+  - **Medium ×3**
+  - **Light ×4**
+- Additional burden may be upgraded using **Glory Points**
+- Lighter gear may occupy heavier slots
+- Weapons and armor count as gear
+- If burdened, treat mundane maneuvers as **treacherous terrain**
+- It is assumed characters use backpacks, pouches, belts, scabbards, and bindings
+- Excess gear may be stored at:
+  - Camp
+  - Wagon
+  - Donkey
+  - Nearby church
+- Burden reflects **weight, size, fit, and carry difficulty**
+- **Patron Ladies** may ignore burden limits, but their gear and transport must still make sense
+
+---
+
+### Wear and Tear (Optional)
+
+- Rolling a **Nat20 critical** or **Nat1 fumble** may cause wear and tear
+- Wear and tear applies a **–1 DR penalty** (or more), at GM discretion
+- Optional method:
+  - Roll **d6** to determine which limb or area is affected
+- Wear and tear effects:
+  - Gear: DR penalties
+  - Armor: reduced Armor Save
+  - Weapons: reduced damage die
+- Repairs require:
+  - Savvy or Intellect
+  - Appropriate skills
+  - Tools, time, and materials
+  - Use of **DRR** where applicable
+- Items may also be repaired by hiring a craftsman via trade
+- Presiding over a **church plant** may negate costs as locals assist
+
+---
+
+### LOW Rule (Expendables)
+
+- Certain expendable items may become **LOW**
+- If an item marked LOW is used again, it is **expended and erased**
+- LOW status may occur due to:
+  - Nat1 rolls
+  - GM discretion
+  - Common-sense use (torches, lanterns, kits, rations, cooking, etc.)
+- When an item is used and deemed depleted:
+  - Mark it **LOW**
+  - If already LOW, it is now **empty or gone**
+
+---
+
+### Crafting Upgrades
+
+- Upgrade Difficulty = **12 + half total DR die value**
+- All item factors contribute to Difficulty
+- Only **one attempt per time period** due to resources, cost, and time
+
+**Example:**  
+Sharpening a greatsword:
+- +1DR
+- d10 → d12 damage  
+- DR cost: 1DR (d4 = 2) + d12 (6) = **8**
+- Difficulty = **12 + 8 = 20**
+
+Alternatively, a smith may charge **20 denarii**
 
 ---
 
