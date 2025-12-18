@@ -586,26 +586,10 @@ See **Grappling** in the Combat section for details.
 
 - [Making a Missionary](#making-a-missionary)
 - [Traits](#traits)
-- [Callings](#callings)
-- [Gear & Burden](#gear--burden)
-- [Power of Faith](#power-of-faith)
-- [Blessings of the Clergy](#blessings-of-the-clergy)
-- [Blessings of the Sisterhood](#blessings-of-the-sisterhood)
-- [Blessings of the Paladin](#blessings-of-the-paladin)
 - [Glory Points](#glory-points)
-- [Spending Glory Points](#spending-glory-points)
 - [Character Classes](#character-classes)
-  - [Holy Warrior Calling](#holy-warrior-calling)
-  - [Mercenary Calling](#mercenary-calling)
-  - [Scout Calling](#scout-calling)
-  - [Clergy Calling](#clergy-calling)
-  - [Sisterhood Calling](#sisterhood-calling)
-  - [Woman’s Touch](#womans-touch)
-  - [Ladyship Calling](#ladyship-calling)
 - [Gear & Burden](#gear-&-burden)
-  - [Armor Rules](#armor-rules)
-  - [Starting Gear](#starting-gear)
-  - [Repair, Crafting, & Burden Rules](#repair,-crafting,-&-burdern-rules)
+- [Power of Faith](#power-of-faith) Blessings of each class
 
 ## Making a Missionary
 - Assign +3, +2, +1, 0, -1, -2 across six Traits.
@@ -619,110 +603,6 @@ See **Grappling** in the Combat section for details.
 - **Spirit**: faith points, courage, preaching, rebuking evil.
 - **Intellect**: crafting, languages, history, medicine.
 - **Society**: persuasion, leadership, performance, teaching.
-
-## Callings
-- **Holy Warrior**: Prowess + Spirit; combat, blessings, vs unholy.
-- **Mercenary**: Prowess + Awareness; strong combat, maneuvers, guard.
-- **Scout**: Awareness + Savvy; tracking, foraging, perception.
-- **Clergy**: Spirit + Intellect/Society; blessings, preaching, conversion, church.
-- **Warrior Priest**: Spirit + Prowess; blessings, rebuke, protections
-- **Sisterhood, Nun**: Spirit; healing, prayer, blessings.
-- **Patron Lady**: Society; trade, persuasion, social influence.
-
-## Gear & Burden
-- Categories: Heavy (II), Medium (III), Light (IIII).
-- All gear, weapons, armor are categorzied into the three areas.
-- Players can only carry the amount of each category withou a DR penalty.
-- Backpacks, sacks, belts with scabbards can increase it.
-- Overburden = -1DR or Armor Save DR penalty.
-- Donkey + cart can carry heavy loads but are not immediately accessible, free for the Patron Lady.
-- **Wear & Tear:** Nat1 can add low to ammo or damaged to gear. Next would be depleted or destroyed. 
-- **Repair:** Difficulty = 12, a success repairs depleted or damaged. Must have time & tools.
-- **Repair Armor:** Difficulty = 12, a success repairs one DR of damage. Must have time & tools.
-- **Time & Tools:** time would be one repair per long rest, specific tool kits for the category.
-
-## Power of Faith
-Faith Points fuel blessings and miracles.
-
-- Characters have have two sets of Faith Points derived from Spirit + DR skill.
-   - **Faith for Each Encounter** — used during combat, danger, spiritual conflict, or moments of tension. This pool refreshes between encounters and can only be used then.
-   - **Faith for the Day** — used during calm scenes, travel, roleplay, teaching, preaching, or preparation. This pool may be spent for encounters out of desperation but is meant for daily or session use. A GM may only allow these faith points as the total for a resting or church session. It may be for the day, a game session, or a period of time, based on GM's descretion.
-- Faith Points are spent when invoking a blessing.
-- Each Faith Point spent becomes **Die Ranks (DR)**.
-
-**Deliverance is always required.**  
-Deliverance determines **how strong** the blessing is. Faith Points spent on Deliverance convert directly into DRs that define the blessing’s effect.
-
-Additional Faith Points may be spent to shape the blessing:
-- **Deluge** — how many targets are affected beyond first  
-- **Duration** — how long the blessing lasts  
-- **Duress** — how hard the blessing is to resist  
-- **Distance** — how far away the target is  
-Note: There is potential for a result of 1 denoting a failure to go beyond 1 person, round and so on.
-
-Blessings aiding allies are usually **free actions**.  
-Blessings used against opposition usually require an **action**.
-Only one blessing can be done per turn. Only one helpful blessing per recipient per turn.
-
-## Blessings of the Clergy
-
-**Bless.** DRs added to an ally’s *to-hit* or *skill* roll. Bless may not be added to other blessings.
-
-**Exorcism.** This blessing drains vigor from unholy or possessed beings, directly harming demonic and evil spirits. They receive no armor saves or dark protections, though stronger ones may attempt a resist. Exorcism is intended for dire situations and truly evil foes.
-
-**Heal.** A lasting effect that restores vitality immediately. Heal does not restore grievous wounds.
-
-**Holy Mace.** Deliverance grants a die rank bonus to hit and adds holy damage, but this blessing requires Duration to remain active. It is best used on a one-handed mace or hammer made for, or blessed by, the Church. The weapon becomes holy for both to-hit and damage and is especially effective against unholy or evil beings. It ignores any unholy armor save bonuses.
-
-**Preach.** Grants a bonus die to Spirit rolls when preaching or persuading groups to turn from evil ways during non-combat situations. Deliverance determines the effect. Use Deluge for crowds, where a d4 affects small groups and a d12 affects large crowds. Duration and Duress are not necessary.
-
-**Prophecy.** Performed between missions during prayer or meditation. Faith spent allows the clergy to roll a die rank result, which is saved for future use and may be added after a roll’s result is known. Only one prophecy may be active at a time.
-
-**Protection.** Grants a bonus to Defense and must be invoked before an attack occurs. The clergy rolls the effect, and all affected characters add the result to their Defense.
-
-**Rebuke.** Removes vigor from human enemies during combat or against enraged, violent mobs. It ignores armor saves. Leaders may resist. At zero vigor, enemies may flee or fall to their knees in humility or humiliation.
-
-**Resist!** Grants ranks to resist curses, fear, or afflictions before they take effect. This blessing does not cleanse an existing curse or affliction.
-
-**Revive.** Those who have died cannot be healed. However, if a character has fallen during the current encounter, the clergy may attempt to revive them. The clergy must successfully Heal the fallen character, bringing their negative vitality to 1. Failure means the soul has passed from this world into the hands of the Lord.
-
-**Special Miracle.** Once in a great while, a clergy member may spend all their Faith Points to plead for a special miracle. The situation must be dire or epic—a moment of great need. The GM sets a difficulty using situational factors, while the believer may add prayer, meditation, fellowship, preparation, and similar acts. A successful roll is required for the miracle to occur.
-
-**Studious.** Faith Points may be added to academic or scholarly inquiries, such as culture, history, Biblical knowledge, the occult, philosophy, social matters, nature, medicine, crafts, or similar fields, at the GM’s discretion.
-
-## Blessings of the Sisterhood
-
-**Call Out.** May grant a bonus die to an ally’s Defense, used immediately against a single attack. This call may be used at any time during a round, even after the attack result is known. The effect lasts for one turn only.
-
-**Cleansing.** Grants a blessed die to help one resist an ongoing curse or ailment that they failed to resist initially. This new resistance roll may be applied once per day to an afflicted soul during a rest.
-
-**Divination.** Through prayer and meditation before a mission, a nun may receive a vision of future things. At the GM’s discretion, this may provide clues, warnings, or mission information, often mysterious, vague, or symbolic. The nun rolls this as a skill using DRs. The GM may interpret the results as DRRs, each DR thereof a clue, vision, warning or answer to a prayer.
-
-**Heal.** A lasting effect that restores vitality. Heal does not restore grievous wounds.
-
-**Hope.** Grants oneself or an ally a bonus die usable on their next roll only. It may apply to anything, including damage rolls and non-d20 rolls.
-
-**I See An Angel.** Used only once per mission or session, this blessing expends all remaining Faith Points. Die Ranks are split between attack, damage, and duration. The Angel cannot be harmed, and its attacks are made with a holy sword that ignores all armor saves. The Angel may be deeply intimidating, especially if it harms unbelievers; fear, blindness, or paralysis tests may apply. Resistance is Spirit 12 plus total DRs used. The Angel may not protect everyone present. Upon the Angel’s arrival, the nun faints and is inconsequential to foes while it remains. She recovers shortly after the Angel departs.
-
-**Miracle of Healing.** This blessing specifically heals grievous wounds. It may combine with medical skills and requires a roll exceeding the difficulty. It may be instantaneous and will not worsen the wound if it fails. This miracle is separate from other medical attempts and may only be rolled once per wound per day. It may be used in combat in desperate situations but will not benefit from other skills.
-
-**Plea.** A desperate plea that may be used at any time and may stop someone from committing an evil act. It can trigger a denouement roll or be resolved as a direct roll-off against the target’s Spirit, anger, and vile bonuses.
-
-**Repel.** A form of rebuke that causes enemies to flee the caster for the duration. Those affected generally seek to avoid further confrontation as they withdraw from the nun. Duration and duress (if strong willed) are all that is required.
-
-## Blessings of the Paladin
-
-**Armor of God.** Grants a second holy armor save for the duration of the blessing.
-
-**Holy Weapon.** The paladin’s weapon is imbued with the Holy effect for the duration, canceling unholy armor saves. Gaining a specially crafted weapon or having one blessed by a great saint may inspire the faith necessary to invoke this blessing. It only requires duration.
-
-**Glory.** Grants a holy die (DR based on Deliverance) to combat damage rolls and must be declared before striking. If the attack misses, the Faith Points spent are lost. Glory may use Duration, but its duration counts down even if attacks miss.
-
-**Perseverance.** Adds vitality to the paladin so they may fight on. This does not heal lost vitality; instead, the granted vitality lasts for the remainder of the encounter and is always depleted before normal vitality. No Duration is required.
-
-**Righteous Anger.** Using Duration only, this blessing lowers the Critical Roll threshold by 1 DR. The DR may be upgraded using Glory Points. The paladin must still hit the target’s normal Defense for the critical to take effect. This is not the same as a natural 20 automatic hit.
-
-**Warrior’s Sacrifice.** This blessing may only be used on oneself. Each die rank grants vitality and compels enemies to pursue and attack the paladin alone. Forgo Duration cost, the effect ends once the paladin has fallen or the enemy is vanquished. This also condemns the enemy to violent means. Leaders may resist this temptation.
 
 
 ## Glory Points
@@ -756,21 +636,10 @@ Players keep a **running total** of Glory Points, tracking both **total earned**
 **Example:**  
 Glory Points (Total / Unspent): **30 / 2**
 
-Unspent Glory Points may be saved indefinitely.
-
----
-
-### When Glory Points Are Spent
-
-Glory Points are generally spent **between missions**, during periods of rest, service, and reflection—most often while staying at a church (new or old).
-
-During this time, characters may train, study, pray, and serve, then describe how their Glory Points are spent on upgrades.
-
----
-
-## Spending Glory Points
-
-Nearly anything that uses **Die Ranks (DR)** may be upgraded using Glory Points.
+- Glory Points are generally spent **between missions**, during periods of rest, service, and reflection—most often while staying at a church (new or old).
+- During this time, characters may train, study, pray, and serve, then describe how their Glory Points are spent on upgrades.
+- Unspent Glory Points may be saved indefinitely.
+- Nearly anything that uses **Die Ranks (DR)** may be upgraded using Glory Points.
 
 ### General Rule for DR Upgrades
 
@@ -838,7 +707,14 @@ Faith Point upgrades follow the normal DR cost rule.
 
 ---
 
-## Character Classes
+## Character Classes, Callings
+- **Holy Warrior**: Prowess + Spirit; combat, blessings, vs unholy.
+- **Mercenary**: Prowess + Awareness; strong combat, maneuvers, guard.
+- **Scout**: Awareness + Savvy; tracking, foraging, perception.
+- **Clergy**: Spirit + Intellect/Society; blessings, preaching, conversion, church.
+- **Warrior Priest**: Spirit + Prowess; blessings, rebuke, protections
+- **Sisterhood, Nun**: Spirit; healing, prayer, blessings.
+- **Patron Lady**: Society; trade, persuasion, social influence.
 
 ---
 
@@ -1163,7 +1039,44 @@ A loyal beast of burden and companion.
 - **Back Kick +1, d6 damage, Tumble4, free action if flanked**
 **Annoy +2 +1DR, Protect +3 +1DR, Chew Straps +1 +1DR, Stubborn +3 +1DR**
 
+---
+
 ## Gear & Burden
+
+---
+
+### Quick Summary
+- Categories: Heavy (II), Medium (III), Light (IIII).
+- All gear, weapons, armor are categorzied into the three areas.
+- Players can only carry the amount of each category withou a DR penalty.
+- Backpacks, sacks, belts with scabbards can increase it.
+- Overburden = -1DR or Armor Save DR penalty.
+- Donkey + cart can carry heavy loads but are not immediately accessible, free for the Patron Lady.
+- **Wear & Tear:** Nat1 can add low to ammo or damaged to gear. Next would be depleted or destroyed. 
+- **Repair:** Difficulty = 12, a success repairs depleted or damaged. Must have time & tools.
+- **Repair Armor:** Difficulty = 12, a success repairs one DR of damage. Must have time & tools.
+- **Time & Tools:** time would be one repair per long rest, specific tool kits for the category.
+  
+---
+
+### Rules
+
+- Characters may carry:
+  - **Heavy ×2**
+  - **Medium ×3**
+  - **Light ×4**
+- Additional burden may be upgraded using **Glory Points**
+- Lighter gear may occupy heavier slots
+- Weapons and armor count as gear
+- If burdened, treat mundane maneuvers as **treacherous terrain**
+- It is assumed characters use backpacks, pouches, belts, scabbards, and bindings
+- Excess gear may be stored at:
+  - Camp
+  - Wagon
+  - Donkey
+  - Nearby church
+- Burden reflects **weight, size, fit, and carry difficulty**
+- **Patron Ladies** may ignore burden limits, due to donkey & cart, but their gear and transport must still make sense
 
 ### Weapons
 
@@ -1200,7 +1113,7 @@ A loyal beast of burden and companion.
 - **Awa** — Weapon may use Awareness bonus instead of Prowess.
 
 
-### Defense & Armor Saves
+### Armor Rules
 
 | Armor Type      | Armor Save | Burden | Style / Notes |
 |-----------------|------------|--------|---------------|
@@ -1214,7 +1127,6 @@ A loyal beast of burden and companion.
 | Great Helm      | —          | Medium | +2 Defense, Sacrifice, no stealth |
 | Helm            | —          | Light  | +1 Defense |
 
-### Armor Rules
 
 - **Defense** starts at **12**, modified by:
   - Awareness
@@ -1240,9 +1152,9 @@ A loyal beast of burden and companion.
   - The GM may roll the Armor Save die
   - Add the result to Difficulty numbers for movement or maneuvering
 
-## Starting Gear & Rules
+### Starting Gear
 
-### Light Gear
+#### Light Gear
 - **Thief Tools** — Savvy tasks, locks, traps  
 - **Scrivener’s Set** — writing, records, Intellect tasks  
 - **Sewing Kit** — clothing repair, small crafting  
@@ -1251,7 +1163,7 @@ A loyal beast of burden and companion.
 - **Fancy Pastry** — morale, persuasion  
 - **Tasty Sausage** — food, cooking, morale
   
-### Medium Gear
+#### Medium Gear
 - **Lantern & Oil** — vision in darkness  
 - **Perfume / Charm Kit** — social influence  
 - **Healing & Medicine Kit** — medical care  
@@ -1260,7 +1172,7 @@ A loyal beast of burden and companion.
 - **Quiver** — required for archery (arrows are free)  
 - **Blanket** — resting comfort
   
-### Heavy Gear
+#### Heavy Gear
 - **Climbing & Traversing Gear** — careful movement, reaching difficult places  
 - **Camping Gear** — resting well in the wild  
 - **Cooking Gear** — preparing meals during rests  
@@ -1275,9 +1187,9 @@ A loyal beast of burden and companion.
 - Patron Ladies begin with a donkey and cart
 - Other characters may only acquire beasts of burden during play
 
-## Repair, Crafting, & Burden
+### Repair & Crafting
 
-### Repairs
+#### Repairs
 
 - **Basic gear & minor repairs:** Difficulty **12**
 - **Fancy gear or major repairs:** Difficulty **12 + damage DR**
@@ -1285,9 +1197,7 @@ A loyal beast of burden and companion.
 - On a **close failure**, the item may suffer additional damage
 - On a **significant failure**, the item may be destroyed
 
----
-
-### Crafting
+#### Crafting
 
 - Determine Difficulty as **12 + item factors**
   - To-Hit DRs
@@ -1300,30 +1210,8 @@ A d10 damage axe counts as **5 DR**, so Difficulty = **12 + 5 = 17**
 
 - Proper **tools and workspace** are required
 
----
 
-### Gear & Burden Rules
-
-- Characters may carry:
-  - **Heavy ×2**
-  - **Medium ×3**
-  - **Light ×4**
-- Additional burden may be upgraded using **Glory Points**
-- Lighter gear may occupy heavier slots
-- Weapons and armor count as gear
-- If burdened, treat mundane maneuvers as **treacherous terrain**
-- It is assumed characters use backpacks, pouches, belts, scabbards, and bindings
-- Excess gear may be stored at:
-  - Camp
-  - Wagon
-  - Donkey
-  - Nearby church
-- Burden reflects **weight, size, fit, and carry difficulty**
-- **Patron Ladies** may ignore burden limits, but their gear and transport must still make sense
-
----
-
-### Wear and Tear (Optional)
+#### Wear and Tear (Optional)
 
 - Rolling a **Nat20 critical** or **Nat1 fumble** may cause wear and tear
 - Wear and tear applies a **–1 DR penalty** (or more), at GM discretion
@@ -1341,9 +1229,7 @@ A d10 damage axe counts as **5 DR**, so Difficulty = **12 + 5 = 17**
 - Items may also be repaired by hiring a craftsman via trade
 - Presiding over a **church plant** may negate costs as locals assist
 
----
-
-### LOW Rule (Expendables)
+#### LOW Rule (Expendables)
 
 - Certain expendable items may become **LOW**
 - If an item marked LOW is used again, it is **expended and erased**
@@ -1355,9 +1241,7 @@ A d10 damage axe counts as **5 DR**, so Difficulty = **12 + 5 = 17**
   - Mark it **LOW**
   - If already LOW, it is now **empty or gone**
 
----
-
-### Crafting Upgrades
+#### Crafting Upgrades
 
 - Upgrade Difficulty = **12 + half total DR die value**
 - All item factors contribute to Difficulty
@@ -1371,6 +1255,90 @@ Sharpening a greatsword:
 - Difficulty = **12 + 8 = 20**
 
 Alternatively, a smith may charge **20 denarii**
+
+---
+## Power of Faith
+Faith Points fuel blessings and miracles.
+
+- Characters have have two sets of Faith Points derived from Spirit + DR skill.
+   - **Faith for Each Encounter** — used during combat, danger, spiritual conflict, or moments of tension. This pool refreshes between encounters and can only be used then.
+   - **Faith for the Day** — used during calm scenes, travel, roleplay, teaching, preaching, or preparation. This pool may be spent for encounters out of desperation but is meant for daily or session use. A GM may only allow these faith points as the total for a resting or church session. It may be for the day, a game session, or a period of time, based on GM's descretion.
+- Faith Points are spent when invoking a blessing.
+- Each Faith Point spent becomes **Die Ranks (DR)**.
+
+**Deliverance is always required.**  
+Deliverance determines **how strong** the blessing is. Faith Points spent on Deliverance convert directly into DRs that define the blessing’s effect.
+
+Additional Faith Points may be spent to shape the blessing:
+- **Deluge** — how many targets are affected beyond first  
+- **Duration** — how long the blessing lasts  
+- **Duress** — how hard the blessing is to resist  
+- **Distance** — how far away the target is  
+Note: There is potential for a result of 1 denoting a failure to go beyond 1 person, round and so on.
+
+Blessings aiding allies are usually **free actions**.  
+Blessings used against opposition usually require an **action**.
+Only one blessing can be done per turn. Only one helpful blessing per recipient per turn.
+
+## Blessings of the Clergy
+
+**Bless.** DRs added to an ally’s *to-hit* or *skill* roll. Bless may not be added to other blessings.
+
+**Exorcism.** This blessing drains vigor from unholy or possessed beings, directly harming demonic and evil spirits. They receive no armor saves or dark protections, though stronger ones may attempt a resist. Exorcism is intended for dire situations and truly evil foes.
+
+**Heal.** A lasting effect that restores vitality immediately. Heal does not restore grievous wounds.
+
+**Holy Mace.** Deliverance grants a die rank bonus to hit and adds holy damage, but this blessing requires Duration to remain active. It is best used on a one-handed mace or hammer made for, or blessed by, the Church. The weapon becomes holy for both to-hit and damage and is especially effective against unholy or evil beings. It ignores any unholy armor save bonuses.
+
+**Preach.** Grants a bonus die to Spirit rolls when preaching or persuading groups to turn from evil ways during non-combat situations. Deliverance determines the effect. Use Deluge for crowds, where a d4 affects small groups and a d12 affects large crowds. Duration and Duress are not necessary.
+
+**Prophecy.** Performed between missions during prayer or meditation. Faith spent allows the clergy to roll a die rank result, which is saved for future use and may be added after a roll’s result is known. Only one prophecy may be active at a time.
+
+**Protection.** Grants a bonus to Defense and must be invoked before an attack occurs. The clergy rolls the effect, and all affected characters add the result to their Defense.
+
+**Rebuke.** Removes vigor from human enemies during combat or against enraged, violent mobs. It ignores armor saves. Leaders may resist. At zero vigor, enemies may flee or fall to their knees in humility or humiliation.
+
+**Resist!** Grants ranks to resist curses, fear, or afflictions before they take effect. This blessing does not cleanse an existing curse or affliction.
+
+**Revive.** Those who have died cannot be healed. However, if a character has fallen during the current encounter, the clergy may attempt to revive them. The clergy must successfully Heal the fallen character, bringing their negative vitality to 1. Failure means the soul has passed from this world into the hands of the Lord.
+
+**Special Miracle.** Once in a great while, a clergy member may spend all their Faith Points to plead for a special miracle. The situation must be dire or epic—a moment of great need. The GM sets a difficulty using situational factors, while the believer may add prayer, meditation, fellowship, preparation, and similar acts. A successful roll is required for the miracle to occur.
+
+**Studious.** Faith Points may be added to academic or scholarly inquiries, such as culture, history, Biblical knowledge, the occult, philosophy, social matters, nature, medicine, crafts, or similar fields, at the GM’s discretion.
+
+## Blessings of the Sisterhood
+
+**Call Out.** May grant a bonus die to an ally’s Defense, used immediately against a single attack. This call may be used at any time during a round, even after the attack result is known. The effect lasts for one turn only.
+
+**Cleansing.** Grants a blessed die to help one resist an ongoing curse or ailment that they failed to resist initially. This new resistance roll may be applied once per day to an afflicted soul during a rest.
+
+**Divination.** Through prayer and meditation before a mission, a nun may receive a vision of future things. At the GM’s discretion, this may provide clues, warnings, or mission information, often mysterious, vague, or symbolic. The nun rolls this as a skill using DRs. The GM may interpret the results as DRRs, each DR thereof a clue, vision, warning or answer to a prayer.
+
+**Heal.** A lasting effect that restores vitality. Heal does not restore grievous wounds.
+
+**Hope.** Grants oneself or an ally a bonus die usable on their next roll only. It may apply to anything, including damage rolls and non-d20 rolls.
+
+**I See An Angel.** Used only once per mission or session, this blessing expends all remaining Faith Points. Die Ranks are split between attack, damage, and duration. The Angel cannot be harmed, and its attacks are made with a holy sword that ignores all armor saves. The Angel may be deeply intimidating, especially if it harms unbelievers; fear, blindness, or paralysis tests may apply. Resistance is Spirit 12 plus total DRs used. The Angel may not protect everyone present. Upon the Angel’s arrival, the nun faints and is inconsequential to foes while it remains. She recovers shortly after the Angel departs.
+
+**Miracle of Healing.** This blessing specifically heals grievous wounds. It may combine with medical skills and requires a roll exceeding the difficulty. It may be instantaneous and will not worsen the wound if it fails. This miracle is separate from other medical attempts and may only be rolled once per wound per day. It may be used in combat in desperate situations but will not benefit from other skills.
+
+**Plea.** A desperate plea that may be used at any time and may stop someone from committing an evil act. It can trigger a denouement roll or be resolved as a direct roll-off against the target’s Spirit, anger, and vile bonuses.
+
+**Repel.** A form of rebuke that causes enemies to flee the caster for the duration. Those affected generally seek to avoid further confrontation as they withdraw from the nun. Duration and duress (if strong willed) are all that is required.
+
+## Blessings of the Paladin
+
+**Armor of God.** Grants a second holy armor save for the duration of the blessing.
+
+**Holy Weapon.** The paladin’s weapon is imbued with the Holy effect for the duration, canceling unholy armor saves. Gaining a specially crafted weapon or having one blessed by a great saint may inspire the faith necessary to invoke this blessing. It only requires duration.
+
+**Glory.** Grants a holy die (DR based on Deliverance) to combat damage rolls and must be declared before striking. If the attack misses, the Faith Points spent are lost. Glory may use Duration, but its duration counts down even if attacks miss.
+
+**Perseverance.** Adds vitality to the paladin so they may fight on. This does not heal lost vitality; instead, the granted vitality lasts for the remainder of the encounter and is always depleted before normal vitality. No Duration is required.
+
+**Righteous Anger.** Using Duration only, this blessing lowers the Critical Roll threshold by 1 DR. The DR may be upgraded using Glory Points. The paladin must still hit the target’s normal Defense for the critical to take effect. This is not the same as a natural 20 automatic hit.
+
+**Warrior’s Sacrifice.** This blessing may only be used on oneself. Each die rank grants vitality and compels enemies to pursue and attack the paladin alone. Forgo Duration cost, the effect ends once the paladin has fallen or the enemy is vanquished. This also condemns the enemy to violent means. Leaders may resist this temptation.
 
 ---
 
