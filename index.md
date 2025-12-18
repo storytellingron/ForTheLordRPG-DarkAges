@@ -723,6 +723,15 @@ Faith Point upgrades follow the normal DR cost rule.
 Holy Warriors are martial servants of the faith, trained in weapons, armor, and disciplined combat. These abilities and upgrades are most commonly associated with Holy Warriors, but many may be learned or used by other callings through training, skills, or Glory Point investment.
 
 ---
+### Blessing Upgrades
+
+**Faith Points (Spirit)**  
+Faith Points are gained as DRs for each intense encounter and for each new day (a long period of rest or peace). When used, Faith DRs are **added together** rather than keeping the highest die. These are for Holy Warriors, Clergy and Nuns. Others may gain this skill as they roleplay their faith.
+
+**Gain a New Blessing**  
+Gaining a new Blessing costs Glory Points equal to the total number of Blessings the character will have after gaining it. Blessings are generally gained between missions during rest, prayer, or meditation, often at a church or monastery. Roleplaying this process is encouraged. See Power of Faith for class blessings.
+
+---
 
 ### Weapon Upgrades
 
@@ -869,7 +878,7 @@ Clergy focus on spiritual authority, prayer, guidance, and confronting evil thro
 Faith Points are gained as DRs for each intense encounter and for each new day (a long period of rest or peace). When used, Faith DRs are **added together** rather than keeping the highest die. These are for Holy Warriors, Clergy and Nuns. Others may gain this skill as they roleplay their faith.
 
 **Gain a New Blessing**  
-Gaining a new Blessing costs Glory Points equal to the total number of Blessings the character will have after gaining it. Blessings are generally gained between missions during rest, prayer, or meditation, often at a church or monastery. Roleplaying this process is encouraged.
+Gaining a new Blessing costs Glory Points equal to the total number of Blessings the character will have after gaining it. Blessings are generally gained between missions during rest, prayer, or meditation, often at a church or monastery. Roleplaying this process is encouraged. See Power of Faith for class blessings.
 
 **Courage / Resist Fear (Spirit)**  
 Adds DRs to resist fear, curses, and magical or spiritual effects. Particularly useful when confronting dark magic, unholy forces, or possession.
@@ -893,8 +902,8 @@ Used to pacify the violent by reducing them to 0 Vigor. Rebuking directly lowers
 **Consoling (Spirit)**  
 Strengthens the faithful by granting a DRR that may be used for a single resist against a specific spiritual or mental adversity. This skill may also be used to gather information from those in distress.
 
-
 ---
+
 ## Sisterhood Calling
 
 The Sisterhood represents nuns and sisters devoted to care, faith, courage, and subtle influence. While most closely associated with women of the Church, many of these abilities may be learned or used by others through training, blessings, or Glory Point investment.
@@ -925,9 +934,15 @@ The Sisterhood represents nuns and sisters devoted to care, faith, courage, and 
   - Used to negate grievous wounds
 
 ---
+### Blessing Upgrades
+
+**Faith Points (Spirit)**  
+Faith Points are gained as DRs for each intense encounter and for each new day (a long period of rest or peace). When used, Faith DRs are **added together** rather than keeping the highest die. These are for Holy Warriors, Clergy and Nuns. Others may gain this skill as they roleplay their faith.
+
+**Gain a New Blessing**  
+Gaining a new Blessing costs Glory Points equal to the total number of Blessings the character will have after gaining it. Blessings are generally gained between missions during rest, prayer, or meditation, often at a church or monastery. Roleplaying this process is encouraged. See Power of Faith for class blessings.
 
 ### Very Helpful Aid
-
 A specialized universal Aid skill using the most appropriate Trait. The resulting DRR grants DRs to the aided character. The helper must possess basic knowledge relevant to the task and/or skill aiding.
 
 ---
@@ -936,7 +951,7 @@ A specialized universal Aid skill using the most appropriate Trait. The resultin
 
 Woman’s Touch abilities are unique skills that resolve using **Die Rank Results (DRR)**. When used by a woman, they gain a **+d4 die**. These abilities generally affect men and may be upgraded using Glory Points.
 
-### Woman’s Touch Abilities (DRR)
+### Abilities (DRR)
 
 **Cleaning (Savvy)**  
 Keen awareness of filth, order, and comfort. Helps create restorative environments during rests and improves churches or homes.
@@ -950,9 +965,7 @@ Subtly diverts attention through behavior or presence, usually targeting specifi
 **Mothering (Savvy)**  
 Provides care, comfort, and support during rests. Grants DRs to rest and healing efforts.
 
----
-
-### Maneuver & Action Woman’s Touch Abilities
+### Maneuver & Action
 
 **Feigning — Overt (Social)**  
 Draws attention or defuses hostility through overt distress (such as fainting). Others focus on the character or assume she is not a threat.
