@@ -602,8 +602,10 @@ See **Grappling** in the Combat section for details.
   - [Sisterhood Calling](#sisterhood-calling)
   - [Woman’s Touch](#womans-touch)
   - [Ladyship Calling](#ladyship-calling)
-
-
+- [Gear & Burden](#gear-&-burden)
+  - [Armor Rules](#armor-rules)
+  - [Starting Gear](#starting-gear)
+  - [Repair, Crafting, & Burden Rules](#repair,-crafting,-&-burdern-rules)
 
 ## Making a Missionary
 - Assign +3, +2, +1, 0, -1, -2 across six Traits.
