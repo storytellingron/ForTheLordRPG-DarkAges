@@ -3,6 +3,21 @@ Dark Ages rulebook and setting.
 
 # Methodology: How This Rulebook Works
 
+> **Rules Authority & Interpretation**
+>
+> This game assumes careful reading and restrained interpretation.
+> If a bonus, Die Rank, or upgrade is not explicitly stated, it does not exist.
+> Do not infer balance, symmetry, or hidden modifiers.
+> When unsure, favor simplicity and the written rule over intuition.
+> 
+> **Using AI for Rules Questions**
+>
+> When asking an AI about these rules, ask it to:
+> - Cite the relevant section
+> - Avoid assuming unstated upgrades
+> - Prefer Traits and written bonuses over inferred balance
+
+
 ## Workflow
 1. **Write in GitHub**  
    - All rules live in `index.md` inside this repo.  
