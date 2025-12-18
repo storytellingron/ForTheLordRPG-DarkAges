@@ -160,10 +160,10 @@ Any die rolled in the Dice Pool that shows **7 or higher**:
 
 ### Damage
 - **Weapons** deal damage from **d4 to d12**, depending on size and type. In advanced play, these may go beyond 5DRs.
-- **Vitality (PCs)** and **Vigor (NPCs)** number decreases when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
+- **Vitality (PCs & good NPCs)** and **Vigor (Bad NPCs & creatures)** number decreases when damage is taken. Think of these as exhaustion, cuts & bruise, but not grievous wounds.
 - **Armor Save:** roll armor to reduce incoming damage. A mininum of 1 damage if the weapon die is higher than the armor save DR.
-- A character at **0 Vitality or Less** is out and triggers the **Life Saves** rules.
-- A villain at **0 Vigor or Less** is deceased. If missionaries want to save them, at GMs descrition, and great healing rolls, they may.
+- A character and whomever GM decides at **0 Vitality or Less** is out and triggers the **Life Saves** rules.
+- A villain, creature at **0 Vigor or Less** is deceased. If missionaries want to save them, at GMs descrition, and great healing rolls, they may.
 
 ### Healing, Vitality
 - **Short Rest:** recover **Prowess or Spirit + d4**.  
@@ -866,7 +866,7 @@ Clergy focus on spiritual authority, prayer, guidance, and confronting evil thro
 ### Blessing Upgrades
 
 **Faith Points (Spirit)**  
-Faith Points are gained as DRs for each intense encounter and for each new day (a long period of rest or peace). When used, Faith DRs are **added together** rather than keeping the highest die.
+Faith Points are gained as DRs for each intense encounter and for each new day (a long period of rest or peace). When used, Faith DRs are **added together** rather than keeping the highest die. These are for Holy Warriors, Clergy and Nuns. Others may gain this skill as they roleplay their faith.
 
 **Gain a New Blessing**  
 Gaining a new Blessing costs Glory Points equal to the total number of Blessings the character will have after gaining it. Blessings are generally gained between missions during rest, prayer, or meditation, often at a church or monastery. Roleplaying this process is encouraged.
@@ -928,15 +928,13 @@ The Sisterhood represents nuns and sisters devoted to care, faith, courage, and 
 
 ### Very Helpful Aid
 
-A specialized Aid skill using the most appropriate Trait. The resulting DRR grants DRs to the aided character. The helper must possess basic knowledge relevant to the task.
+A specialized universal Aid skill using the most appropriate Trait. The resulting DRR grants DRs to the aided character. The helper must possess basic knowledge relevant to the task and/or skill aiding.
 
 ---
 
 ## Woman’s Touch
 
-Woman’s Touch abilities are unique skills that resolve using **Die Rank Results (DRR)**. When used by a woman, they gain an **additional d4 die**. These abilities generally affect men and may be upgraded using Glory Points.
-
----
+Woman’s Touch abilities are unique skills that resolve using **Die Rank Results (DRR)**. When used by a woman, they gain a **+d4 die**. These abilities generally affect men and may be upgraded using Glory Points.
 
 ### Woman’s Touch Abilities (DRR)
 
@@ -1369,14 +1367,17 @@ Each attack is listed on its own line, prefixed with a dash (`-`).
 - Damage die or dice
 - Special rules or conditions
 
-**Final Line — Abilities & Traits**  
+**Line 5+ — Abilities & Traits**  
 A comma-separated list of aware and/or interactive skills with their appropriate Trait & DR bonus.
-
 A conversion rating could be alotted and summarized here.
-Backgrounds and other info left to the GM.
+
+**Line 6 - Blessings** if available
+**Faith Spirit+DRs**
+**Blessings list**, simple summary of each.
+
 ---
 
-### Example Creature: Old Gladiator
+### Example NPC: Old Gladiator
 **Athgunert, former gladiator**  
 **Pro5, Awa4, Sav-1, Spi2, Int0, Soc3**  
 **Def19, leathers, Save d6, Vigor 22**  
