@@ -74,9 +74,9 @@ Each attack is listed on its own line, prefixed with a dash (`-`).
 A comma-separated list of aware and/or interactive skills with their appropriate Trait & DR bonus.
 A conversion rating could be alotted and summarized here.
 
-**Line 6 - Blessings**
-**Faith Spirit+DRs**
-**Blessings list**, simple summary of each.
+**Line 6 - Magic**
+**Magic Points Trait+DRs**
+**Magic or Curse list**, simple summary of each.
 Could add typical magic point expenditures as preset attacks and defenses.
 
 
