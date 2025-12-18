@@ -24,6 +24,7 @@ When asking an AI about these rules, ask it to:
 
 
 ## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Core Mechanics](#core-mechanics)
 - [Advanced Play](#advanced-play)
 - [Character Creation](#character-creation)
@@ -280,6 +281,8 @@ This list is not exhaustive — it exists to inspire rich descriptions of tense,
 This can be introduced after GMs and players get the hang of combat, rolling skills, blessings, roleplaying and upgrading with Glory Points. If a long campaign is desired.
 
 ---
+
+- [Table of Contents](#table-of-contents)
 - [Die Rank Results (DRR)](#die-rank-results-drr)
 - [Penalty Dice](#penalty-dice)
 - [Afflictions](#afflictions)
