@@ -587,6 +587,7 @@ See **Grappling** in the Combat section for details.
 
 # Character Creation
 
+- [Table of Contents](#table-of-contents)
 - [Making a Missionary](#making-a-missionary)
 - [Traits](#traits)
 - [Glory Points](#glory-points)
