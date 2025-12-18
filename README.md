@@ -6,9 +6,11 @@ Dark Ages rulebook and setting.
 > **Rules Authority & Interpretation**
 >
 > This game assumes careful reading and restrained interpretation.
-> If a bonus, Die Rank, or upgrade is not explicitly stated, it does not exist.
+> If a bonus, Die Rank, upgrade, or exception is not explicitly stated, it does not exist.
 > Do not infer balance, symmetry, or hidden modifiers.
+> Traits, written DRs, and listed equipment are the only sources of mechanical effect. Every skill has an appropriate trait modifier.
 > When unsure, favor simplicity and the written rule over intuition.
+>
 > 
 > **Using AI for Rules Questions**
 >
